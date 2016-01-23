@@ -1,0 +1,833 @@
+#EXTM3U
+
+
+
+
+Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se gostar Adquira o serviço pelo Operador.
+Editada a : 08-01-2016
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://visionfour.com/images/iptv.jpg" , - IPTV EM SAMRT TV -
+#EXTBG:http://visionfour.com/images/iptv.jpg
+#EXTSIZE:Big
+https://www.youtube.com/v/xdV3S1mOnjg
+
+
+
+
+
+#EXTINF:-1 channelId="2832" , RTP 1
+#EXTBG:#ffffff
+#EXTSIZE:Small
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 channelId="2832" , RTP 1
+#EXTBG:#ffffff
+#EXTSIZE:Small
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="2832" , RTP 1
+#EXTBG:#ffffff
+#EXTSIZE:Small
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1.smil/chunklist_b600000_slpt.m3u8
+
+
+#EXTINF:-1 channelId="2833" , RTP 2
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 channelId="2833" , RTP 2
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="2833" , RTP 2
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2.smil/chunklist_b600000_slpt.m3u8
+
+
+#EXTINF:-1 channelId="2850" , RTP AÇORES
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+#EXTINF:-1 channelId="2850" , RTP AÇORES
+#EXTBG:#ff0000
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores.smil/chunklist_b600000_slpt.m3u8
+
+
+#EXTINF:-1 channelId="2851" , RTP ÁFRICA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="2851" , RTP ÁFRICA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg" , RTP 3
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg" , RTP 3
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:-1 channelId="372" , RTP INTERNACIONAL
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="372" , RTP INTERNACIONAL
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi.smil/chunklist_b600000_slpt.m3u8
+
+
+#EXTINF:-1 channelId="2643" , RTP MADEIRA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
+#EXTINF:-1 channelId="2643" , RTP MADEIRA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira.smil/chunklist_b600000_slpt.m3u8
+
+
+#EXTINF:-1 channelId="2644" , RTP MEMÓRIA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="2644" , RTP MEMÓRIA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem.smil/chunklist_b600000_slpt.m3u8
+
+
+
+#EXTINF:-1 channelId="2645" , SIC
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+
+
+#EXTINF:-1 channelId="2646" , SIC NOTÍCIAS
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
+#EXTINF:-1 channelId="2646" , SIC Noticias
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
+
+#EXTINF:-1,Sic Radical
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1581.m3u8
+
+
+
+#EXTINF:-1 channelId="2647" , TVI
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
+#EXTINF:-1 channelId="2647" , TVI
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+#EXTINF:-1 channelId="2647" , TVI
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+
+
+
+#EXTINF:-1 channelId="2651" , +TVI
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://natv.pt/img/BB93785A-B161-4DDB-8AA0-1EDB79951AC5/imagem/" , TVI REALITY
+#EXTBG:#ffffff
+http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
+
+
+#EXTINF:-1 channelId="2648" , TVI 24
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b814000.m3u8
+#EXTINF:-1 channelId="2648" , TVI 24
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+#EXTINF:-1 channelId="2648" , TVI 24
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.frocus.net/images/logotv/original/tpa-international.jpg" , TPA
+#EXTBG:#ffffff
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+
+#EXTINF:-1,Record
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/662.m3u8
+
+#EXTINF:-1,TV Globo
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1580.m3u8
+
+
+
+#EXTINF:-1,TV GALIZIA 1
+#EXTBG:#ffffff
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+
+#EXTINF:-1,TV GALIZIA 2
+#EXTBG:#ffffff
+http://media3.crtvg.es/live/tvga/chunklist_w164960213.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
+#EXTBG:#ffffff
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
+
+
+
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , Desporto
+#EXTBG:http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
+#EXTSIZE:Big
+https://www.youtube.com/v/urtwG0BjZck
+
+
+
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1624.m3u8
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/660.ts
+#EXTINF:-1 channelId="2834" , Benfica "Teste"
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
+#EXTINF:-1 channelId="2834" , Benfica 1 HD
+http://iptvtt.ddns.net:8000/live/salvador/salvador/10.ts
+#EXTINF:-1 channelId="2834" , Benfica 1 HD
+http://iptvtt.ddns.net:8000/live/salvador/salvador/10.m3u8
+#EXTINF:-1 channelId="2834" , Benfica 1 HQ
+http://iptvtt.ddns.net:8000/live/salvador/salvador/98.ts
+
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/659.ts
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/659.m3u8
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1582.m3u8
+
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+#EXTBG:#ffffff
+http://31.204.128.127:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1187.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://iptv-elhouari.com:8000/live/xk3qIfVij5/uMctZeV8lR/592.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://iptvdream.dynns.com:2500/live/facebook1/facebook2/1813.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://startimes.mine.nu:8080/live/startimes/10012016/706.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://iptvtt.ddns.net:8000/live/salvador/salvador/5.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1 HQ
+http://iptvtt.ddns.net:8000/live/salvador/salvador/96.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1 HD (teste)
+http://iptvtt.ddns.net:8000/live/salvador/salvador/455.ts
+
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1188.m3u8
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/654.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+http://iptv-elhouari.com:8000/live/xk3qIfVij5/uMctZeV8lR/599.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+http://iptvdream.dynns.com:2500/live/facebook1/facebook2/889.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+http://startimes.mine.nu:8080/live/startimes/10012016/707.m3u8
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+http://iptvtt.ddns.net:8000/live/salvador/salvador/6.ts
+
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1189.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/655.ts
+
+
+#EXTINF:-1 channelId="1586" , SPORT TV 4
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1190.m3u8
+
+#EXTINF:-1 channelId="2862" , Sport Tv5
+#EXTBG:#00f1f9
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1465.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://thumbs.dreamstime.com/x/football-match-tv-sports-channel-15259755.jpg" , SPORT TV Russo
+#EXTBG:#ffffff
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.iptvlinksss.com/wp-content/uploads/2016/01/1005746_460931674003875_620755034_n.jpg" , HI Sport HD Thailand Bull Fight
+#EXTBG:#ffffff
+http://nakorn4.dyndns.tv:1935/live/sdlive.stream/playlist.m3u8
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS
+#EXTBG:#ffffff
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS HD
+#EXTBG:#ffffff
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS HD+
+#EXTBG:#ffffff
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://http://www.freeiptvlinks.com/wp-content/uploads/2015/12/UFC-Combate.jpg" , UFC - Combate
+#EXTBG:#ffffff
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SPORTV SD
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 channelId="2599" , SPORTV
+#EXTBG:#ffffff
+http://213.163.65.116:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 channelId="2599" , SPORTV
+#EXTBG:#ffffff
+http://213.163.71.139:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 channelId="2600" , SPORTV2
+#EXTBG:#ffffff
+http://213.163.65.116:8081/live/sportv2/playlist.m3u8
+
+#EXTINF:-1 channelId="2600" , SPORTV2
+#EXTBG:#ffffff
+http://213.163.71.139:8081/live/sportv2/playlist.m3u8
+
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://4.bp.blogspot.com/-5SddYGl-rJg/VCgzUi0IAuI/AAAAAAACKBM/iRhDhrYmml0/s1600/PFC_LOGO_2014.png" , PFC
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2863" , A Bola
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2855" , PORTO CANAL
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://oi58.tinypic.com/2coj1gz.jpg" , TV Sporting
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="225" , Eurosport HD
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="83" , Eurosport 2
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="320" , Eurosport Noticias
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1332" , Real Madrid
+#EXTBG:#ffffff
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 channelId="1546" group-title="UK" , Chelsea TV [FSD]
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2012/02/LFC_TV_logo.png" group-title="UK" ,Liverpool TV [HD]
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.iptvlinkss.com/wp-content/uploads/2015/12/football-report-fubo-tv-America-logo-design-26-304x200.png" ,Fubo-Report
+#EXTBG:#ffffff
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 channelId="-1" , Desenhos Animados
+#EXTBG:http://1.bp.blogspot.com/-8aVRjK1DDkM/T9PO2Ro2-lI/AAAAAAAAAKI/VgrH_Dql43c/s1600/Mickey_Mouse.png
+#EXTSIZE:Big
+https://i.ytimg.com/vi/uLI7sUQQrPk/maxresdefault.jpg
+
+
+#EXTINF:-1 channelId="1576" , 24Kitchen HD
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="41" , Nickelodeon
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2854" , Sic K
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="19" , DISNEY CHANEL
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1197" , Disney Junior
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1197" , Disney Junior
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2823" , Canal Panda
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="40" , Cartoon Network PT
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="191" , Jim Jam
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+
+
+
+
+#EXTINF:-1 channelId="-1" , Cinema & Series
+#EXTBG:http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
+#EXTSIZE:Big
+http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
+
+
+
+#EXTINF:-1 channelId="2872" , TVCine 1 HD
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1569.m3u8
+
+#EXTINF:-1 channelId="2874" , TVCine 2 HD
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1570.m3u8
+
+#EXTINF:-1 channelId="2876" , TVCine 3 HD
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1571.m3u8
+
+#EXTINF:-1 channelId="2878" , TVCine 4 HD
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1572.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/676.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/676.m3u8
+
+
+#EXTINF:-1 channelId="2848" , Mov
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg" , CINEMUNDO HD
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1688" , HOLLYWOOD HD
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2246" , AXN HD
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1574" , AXN White
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1575" , AXN Blak
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="208" , Fox HD
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="178" , Fox Life
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1572" , FOX CRIME HD
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2249" , FOX Comedia
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1862" , FOX Movies *
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="73" , Syfy
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/658.ts
+
+#EXTINF:-1 channelId="1192" , Syfy *
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:0 channelId="-1" tvg-logo="http://tvcinec.zip.net/images/logo.JPG" , TV CINEC
+#EXTBG:#ffffff
+http://104.156.60.74:1935/tvcinec/tvcinec/live.m3u8
+
+#EXTINF:0 channelId="-1" tvg-logo="http://tvcinec.zip.net/images/logo.JPG" , TV CINEC PB
+#EXTBG:#ffffff
+http://servidorcoretv.com.br:1935/tvcinec/tvcinec/live.m3u8
+
+#EXTINF:0 channelId="2501" , AMC
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+
+
+
+#EXTINF:-1 channelId="-1" , Documentarios
+#EXTBG:http://tvcamara.camaratupa.sp.gov.br/Imagens/Programas/DOCUMENT%C3%81RIOS.pn
+#EXTSIZE:Big
+http://tvcamara.camaratupa.sp.gov.br/Imagens/Programas/DOCUMENT%C3%81RIOS.png
+
+#EXTINF:-1 channelId="1208" , A & E
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.touroeouro.com/assets/site/uploads/article1752.jpg" , Toros
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="57" , DISCOVERY
+#EXTBG:#ffffff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="241" , Discovery HD Showcase
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+#EXTINF:-1 channelId="988" , BBC Intertiement
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+#EXTINF:-1 channelId="2866" , Caça e Pesca
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2868" , CANAL HISTORIA
+#EXTBG:#00f1f9
+http://top-iptv.zapto.org:8000/live/Aria/Aria/667.ts
+#EXTINF:-1 channelId="2868" , CANAL HISTORIA "teste"
+#EXTBG:#00f1f9
+http://top-iptv.zapto.org:8000/live/Aria/Aria/667.ts
+
+#EXTINF:-1 channelId="207" , National Geographic HD
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="164" , Nat Geo Wild
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2869" , Odisseia
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="54" , Travel Channel
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="1974" , ETV
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2866" , Caça e Pesca
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.touroeouro.com/assets/site/uploads/article1752.jpg" , TOROS
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2867" , Caçavision
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="217" , EURONEWS
+#EXTBG:#ffffff
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+#EXTINF:-1 channelId="217" , EURONEWS
+#EXTBG:#ffffff
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:-1 channelId="217" , EURONEWS
+#EXTBG:#ffffff
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_pt.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Fashion-TV-India.png" ,FashionTv
+#EXTBG:#ffffff
+http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessionid=1005101551
+
+
+
+
+
+
+
+#EXTINF:-1 channelId="-1" , Musica
+#EXTBG:http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png
+#EXTSIZE:Big
+https://www.youtube.com/v/zB9HRWNjokY
+
+#EXTINF:0 channelId="151" , VH1
+#EXTBG:#ffffff
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO 1
+#EXTBG:#ffffff
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO 2
+#EXTBG:#ffffff
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO3
+#EXTBG:#ffffff
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 channelId="151" , VH1
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="151" , VH1 SHUFFLE
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.11:1234
+
+#EXTINF:-1 channelId="289" , MTV Hits
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.12:1234
+
+#EXTINF:-1 channelId="290" , MTV Rocks
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.14:1234
+
+#EXTINF:-1 channelId="146" , MTV Dance
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.13:1234
+
+#EXTINF:-1 channelId="1106" , Mtv Portugal
+#EXTBG:#00f1f9
+https://www.youtube.com/v/rkTDku6vcjU
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.nicolematos.pt/img/portfolio/portugal.png" , Regiões de Portugal
+#EXTBG:http://www.nicolematos.pt/img/portfolio/portugal.png
+#EXTSIZE:Big
+https://www.youtube.com/v/ll9dZk-gC7E&spfreload
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.celina-tours.com/images/img/tours/excursao-fatima1.jpg" , SANTUÁRIO DE FÁTIMA – CAPELINHA DAS APARIÇÕES
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://tvl.pt/wp-content/uploads/2013/05/banner-lateralTVL2013.jpg" , TV LISBOA
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
+
+#EXTINF:-1 channelId="-1" , TV MANÁ-1
+http://195.22.19.179:1935/manasat/manasat2/live.m3u8
+
+#EXTINF:-1 channelId="-1" , TV MANÁ-1
+http://195.22.19.179:1935/manasat/manasat3/live.m3u8
+
+#EXTINF:-1 channelId="-1" , IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+
+#EXTINF:-1 channelId="-1" , IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline3/live.m3u8
+
+#EXTINF:-1 channelId="-1" , PRAIA CARCAVELOS [WEBCAM]
+http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA COSTA DA CAPARICA [WEBCAM]
+http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DA ERICEIRA [WEBCAM]
+http://213.13.26.11:1935/live/ericeira.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DA LUZ [WEBCAM]
+http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE AVEIRO [WEBCAM]
+http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE ESPINHO [WEBCAM]
+http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE PENICHE [WEBCAM]
+http://213.13.26.11:1935/live/peniche.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE SÃO PEDRO [WEBCAM]
+http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE SÃO TORPES [WEBCAM]
+http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DO GUINCHO [WEBCAM]
+http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DO NORTE [WEBCAM]
+http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA GRANDE [WEBCAM]
+http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA LEÇA DA PALMEIRA [WEBCAM]
+http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA LIGA MOCHE SURFE [WEBCAM]
+http://213.13.26.11:1935/live/surfstream.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA MADEIRA JARDIM DO MAR [WEBCAM]
+http://213.13.26.11:1935/live/jardim.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA MATOSINHOS [WEBCAM]
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA RIBEIRA [WEBCAM]
+http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA SANTA CRUZ
+http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA SUPER TUBOS [WEBCAM]
+http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
+
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://iptv-work.at.ua/images/160892c76bd94ad9b91b14ee335f9114.png" , Só para maiores de 18 anos
+#EXTBG:http://i47.tinypic.com/2rz5kxt.jpg
+#EXTSIZE:Big
+https://www.youtube.com/v/WyL5ABXltW8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4a/Venus_channel.jpg/revision/latest?cb=20130305011941" , VENUS
+#EXTBG:#e300ff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1,Private Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:privatetv/playlist.m3u8
+
+#EXTINF:-1,Hustler HD
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+
+#EXTINF:-1,Hustler Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
+
+#EXTINF:-1 channelId="2597" , HOT
+#EXTBG:#e300ff
+https://www.youtube.com/v/rkTDku6vcjU
+#EXTINF:-1 channelId="517" , 18 PLAYBOY
+#EXTBG:#e300ff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2597" , HOT HD
+#EXTBG:#e300ff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://iptv-work.at.ua/images/160892c76bd94ad9b91b14ee335f9114.png" , 18
+#EXTBG:#e300ff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://iptv-work.at.ua/images/160892c76bd94ad9b91b14ee335f9114.png" , ++ 18
+#EXTBG:#e300ff
+https://www.youtube.com/v/rkTDku6vcjU
+
+#EXTINF:-1 channelId="2846" , Private Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:privatetv/playlist.m3u8
+#EXTINF:-1 channelId="520" , Hustler HD
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+#EXTINF:-1 channelId="519" , Hustler Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
+
+#EXTINF:-1 channelId="658" , XXX
+#EXTBG:#e300ff
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
+
+#EXTINF:-1 channelId="-1" , Sexy
+#EXTBG:#e300ff
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+
+#EXTINF:-1 channelId="518" , BRAZZERS EUROPE
+#EXTBG:#e300ff
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+
+#EXTINF:-1 channelId="1741" , OLALA
+#EXTBG:#e300ff
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1 channelId="2265" , PASSION XXX
+#EXTBG:#e300ff
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO" , JASMIN CHANNEL
+#EXTBG:#e300ff
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 channelId="-1" , BELLA CLUB
+#EXTBG:#e300ff
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1 channelId="-1" , BELLA CLUB2
+#EXTBG:#e300ff
+http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
+#EXTINF:-1,XXXX
+http://bit.ly/1JWhuY8
+#EXTINF:-1,hustler tv
+http://bit.ly/1QbtynR
+#EXTINF:-1,pinko tv
+http://bit.ly/1JWhG9L
+#EXTINF:-1,pasion xxx
+http://bit.ly/1ZyDTN9
+#EXTINF:-1,***t6sento
+http://bit.ly/1JWhNlG
+#EXTINF:-1,centoxcento tv
+http://bit.ly/1n7FwoA
+#EXTINF:-1,Venus TV
+http://87.239.102.40:4022/udp/239.1.254.164:4000
+#EXTINF:0,DORCEL
+http://213.136.90.30:8000/live/christop/christop/9220.ts
+#EXTINF:0,PRIVATE
+http://213.136.90.30:8000/live/christop/christop/9217.ts
+#EXTINF:0,BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0,PASSION XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1,Asian Porn 1
+http://edge2.everyon.tv/etv2/pld1003/cookimonster.m3u8
+#EXTINF:-1,Asian Porn 2
+http://edge2.everyon.tv/etv2/pld1008/cookimonster.m3u8
+#EXTINF:-1,Asian Porn 3
+http://edge2.everyon.tv/etv2/pld1005/cookimonster.m3u8
+#EXTINF:-1,Jazmin TV
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:-1, Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
