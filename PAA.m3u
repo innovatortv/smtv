@@ -44,127 +44,134 @@ http://185.26.175.200:5000/udp/239.200.1.55:10000
 #EXTINF:-1,Hot
 http://185.26.175.200:5000/udp/239.200.1.32:10000
 
-#EXTINF:-1, OUTRAS
-
-#EXTM3U
-#EXTINF:-1,PT-SPORT TV 1 HD 720p
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1329.ts
-#EXTINF:-1,PT-SPORT TV 2  HD  720p
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1331.ts
-#EXTINF:-1,PT-SPORT TV 3 HD  720p
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1330.ts
-#EXTINF:-1,PT-SPORT TV 4  HD  720p
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1332.ts
-#EXTINF:-1,PT-SPORT TV 5  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1328.ts
-#EXTINF:-1,PT-BENFICA TV 1  HD 720p
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1335.ts
-#EXTINF:-1,PT-BENFICA TV 2 HD   720p
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1336.ts
-#EXTINF:-1,PT-SPORTING TV  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1337.ts
-#EXTINF:-1,PT-EUROSPORT  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1334.ts
-#EXTINF:-1,PT-EUROSPORT 2 SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1370.ts
-#EXTINF:-1,PT-SPORT TV AMERICAS ( Canal de Internet )
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1333.ts
-#EXTINF:-1,PT-TOROS TV SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1372.ts
-#EXTINF:-1,PT-MOTORS TV SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1371.ts
-#EXTINF:-1,PT-REAL MADRID TV SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1338.ts
-#EXTINF:-1,PT-CHELSEA TV SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1339.ts
-#EXTINF:-1,PT-TV CINE 1  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1351.ts
-#EXTINF:-1,PT-TV CINE 2  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1352.ts
-#EXTINF:-1,PT-TV CINE 3  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1353.ts
-#EXTINF:-1,PT-TV CINE 4 HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1354.ts
-#EXTINF:-1,PT-TV SERIES  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1355.ts
-#EXTINF:-1,PT-MOV  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1356.ts
-#EXTINF:-1,PT-HOLLYWOD SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1347.ts
-#EXTINF:-1,PT-AXN  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1357.ts
-#EXTINF:-1,PT-FOX  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1359.ts
-#EXTINF:-1,PT-FOX MOVIES  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1350.ts
-#EXTINF:-1,PT-FOX CRIME  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1360.ts
-#EXTINF:-1,PT-FOX LIFE  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1358.ts
-#EXTINF:-1,PT-AMC  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1346.ts
-#EXTINF:-1,PT-E! ENTERTAINMENT  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1348.ts
-#EXTINF:-1,PT-SYFY SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1363.ts
-#EXTINF:-1,PT-TVI SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1319.ts
-#EXTINF:-1,PT-TVI 24  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1321.ts
-#EXTINF:-1,PT-TV GLOBO PORTUGAL  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1323.ts
-#EXTINF:-1,PT-SIC SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1318.ts
-#EXTINF:-1,PT-SIC NOTICIAS  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1320.ts
-#EXTINF:-1,PT-SIC CARAS  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1326.ts
-#EXTINF:-1,PT-RTP INTERNACIONAL SD ( Canal Internet )
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1369.ts
-#EXTINF:-1,PT-RTP INFORMAÇÃO  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1322.ts
-#EXTINF:-1,PT-RTP 1  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1316.ts
-#EXTINF:-1,PT-RTP 2  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1317.ts
-#EXTINF:-1,PT-PORTO CANAL  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1325.ts
-#EXTINF:-1,PT-CMTV  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1324.ts
-#EXTINF:-1,PT-CINEMUNDO  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1349.ts
-#EXTINF:-1,PT-FOX NEWS SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1375.ts
-#EXTINF:-1,PT-CANAL Q  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1327.ts
-#EXTINF:-1,PT-A&E SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1374.ts
-#EXTINF:-1,PT-24 Kitchen  HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1366.ts
-#EXTINF:-1,PT-NATIONAL GEOGRAPHIC HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1368.ts
-#EXTINF:-1,PT-NAT GEO WILD  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1362.ts
-#EXTINF:-1,PT-DISCOVERY SHOWCASE HD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1367.ts
-#EXTINF:-1,PT-DISCOVERY CHANNEL  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1361.ts
-#EXTINF:-1,PT-CANAL HISTORIA SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1365.ts
-#EXTINF:-1,PT-CACA E PESCA SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1373.ts
-#EXTINF:-1,PT-DISNEY JUNIOR SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1343.ts
-#EXTINF:-1,PT-DISNEY CHANNEL SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1340.ts
-#EXTINF:-1,PT-NICKELODEON  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1342.ts
-#EXTINF:-1,PT-CARTOON NETWORK  SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1345.ts
-#EXTINF:-1,PT-BABY TV SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1344.ts
-#EXTINF:-1,PT-ODISSEIA SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1364.ts
-#EXTINF:-1,PT-PANDA SD
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1341.ts
-
+#EXTINF:-1,[COLOR yellow]by http://iptv-list-2015.blogspot.com[/COLOR]
+#EXTINF:-1,RTP 1
+http://37.59.45.208:1234/live/clikmega/@gmail.com/35.m3u8
+#EXTINF:-1,RTP 2
+http://37.59.45.208:1234/live/clikmega/@gmail.com/36.m3u8
+#EXTINF:-1,SIC
+http://37.59.45.208:1234/live/clikmega/@gmail.com/37.m3u8
+#EXTINF:-1,TVI
+http://37.59.45.208:1234/live/clikmega/@gmail.com/38.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://37.59.45.208:1234/live/clikmega/@gmail.com/39.m3u8
+#EXTINF:-1,TVI 24
+http://37.59.45.208:1234/live/clikmega/@gmail.com/40.m3u8
+#EXTINF:-1,TV GLOBO PORTUGAL
+http://37.59.45.208:1234/live/clikmega/@gmail.com/41.m3u8
+#EXTINF:-1,TV RECORD PORTUGAL
+http://37.59.45.208:1234/live/clikmega/@gmail.com/42.m3u8
+#EXTINF:-1,DISNEY
+http://37.59.45.208:1234/live/clikmega/@gmail.com/43.m3u8
+#EXTINF:-1,PANDA
+http://37.59.45.208:1234/live/clikmega/@gmail.com/44.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://37.59.45.208:1234/live/clikmega/@gmail.com/45.m3u8
+#EXTINF:-1,SPORT TV 1 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/46.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/47.m3u8
+#EXTINF:-1,SPORT TV 2 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/48.m3u8
+#EXTINF:-1,SPORT TV 3 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/49.m3u8
+#EXTINF:-1,SPORT TV 4 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/50.m3u8
+#EXTINF:-1,SPORT TV 5 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/51.m3u8
+#EXTINF:-1,BENFICA TV 1 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/52.m3u8
+#EXTINF:-1,BENFICA TV 2 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/53.m3u8
+#EXTINF:-1,SPORTING TV SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/54.m3u8
+#EXTINF:-1,PORTO CANAL
+http://37.59.45.208:1234/live/clikmega/@gmail.com/55.m3u8
+#EXTINF:-1,TVCINE 1
+http://37.59.45.208:1234/live/clikmega/@gmail.com/56.m3u8
+#EXTINF:-1,TVCINE 2
+http://37.59.45.208:1234/live/clikmega/@gmail.com/57.m3u8
+#EXTINF:-1,TVCINE 3
+http://37.59.45.208:1234/live/clikmega/@gmail.com/58.m3u8
+#EXTINF:-1,TVCINE 4
+http://37.59.45.208:1234/live/clikmega/@gmail.com/59.m3u8
+#EXTINF:-1,GLOBO PREMIUM
+http://37.59.45.208:1234/live/clikmega/@gmail.com/60.m3u8
+#EXTINF:-1,SYFY
+http://37.59.45.208:1234/live/clikmega/@gmail.com/61.m3u8
+#EXTINF:-1,TLC
+http://37.59.45.208:1234/live/clikmega/@gmail.com/62.m3u8
+#EXTINF:-1,ODISSEIA
+http://37.59.45.208:1234/live/clikmega/@gmail.com/63.m3u8
+#EXTINF:-1,SIC MULHER
+http://37.59.45.208:1234/live/clikmega/@gmail.com/64.m3u8
+#EXTINF:-1,SIC RADICAL
+http://37.59.45.208:1234/live/clikmega/@gmail.com/65.m3u8
+#EXTINF:-1,TVI FICCAO
+http://37.59.45.208:1234/live/clikmega/@gmail.com/66.m3u8
+#EXTINF:-1,MAIS TVI
+http://37.59.45.208:1234/live/clikmega/@gmail.com/67.m3u8
+#EXTINF:-1,SPORT TV 1 SD PURA
+http://37.59.45.208:1234/live/clikmega/@gmail.com/68.m3u8
+#EXTINF:-1,BENFICA TV 1 SD PURA
+http://37.59.45.208:1234/live/clikmega/@gmail.com/69.m3u8
+#EXTINF:-1,A BOLA TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/70.m3u8
+#EXTINF:-1,SIC K
+http://37.59.45.208:1234/live/clikmega/@gmail.com/71.m3u8
+#EXTINF:-1,JIM JAM
+http://37.59.45.208:1234/live/clikmega/@gmail.com/72.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://37.59.45.208:1234/live/clikmega/@gmail.com/73.m3u8
+#EXTINF:-1,HOLLYWOOD SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/74.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://37.59.45.208:1234/live/clikmega/@gmail.com/75.m3u8
+#EXTINF:-1,CBS REALITY
+http://37.59.45.208:1234/live/clikmega/@gmail.com/76.m3u8
+#EXTINF:-1,FASHION TV ( Canal de Internet )
+http://37.59.45.208:1234/live/clikmega/@gmail.com/77.m3u8
+#EXTINF:-1,FOX MOVIES
+http://37.59.45.208:1234/live/clikmega/@gmail.com/78.m3u8
+#EXTINF:-1,AMC
+http://37.59.45.208:1234/live/clikmega/@gmail.com/79.m3u8
+#EXTINF:-1,CINEMUNDO
+http://37.59.45.208:1234/live/clikmega/@gmail.com/80.m3u8
+#EXTINF:-1,CANAL HISTORIA
+http://37.59.45.208:1234/live/clikmega/@gmail.com/81.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://37.59.45.208:1234/live/clikmega/@gmail.com/82.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/83.m3u8
+#EXTINF:-1,EUROSPORT
+http://37.59.45.208:1234/live/clikmega/@gmail.com/84.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://37.59.45.208:1234/live/clikmega/@gmail.com/85.m3u8
+#EXTINF:-1,MOTORS TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/86.m3u8
+#EXTINF:-1,CHELSEA TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/87.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/88.m3u8
+#EXTINF:-1,NBA TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/89.m3u8
+#EXTINF:-1,TOROS TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/90.m3u8
+#EXTINF:-1,CAÇA E PESCA
+http://37.59.45.208:1234/live/clikmega/@gmail.com/91.m3u8
+#EXTINF:-1,ETV ( Canal De Internet )
+http://37.59.45.208:1234/live/clikmega/@gmail.com/92.m3u8
+#EXTINF:-1,TVE 24 ( Canal De Internet )
+http://37.59.45.208:1234/live/clikmega/@gmail.com/93.m3u8
+#EXTINF:-1,MCM TOP
+http://37.59.45.208:1234/live/clikmega/@gmail.com/94.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://37.59.45.208:1234/live/clikmega/@gmail.com/95.m3u8
+#EXTINF:-1,VH1
+http://37.59.45.208:1234/live/clikmega/@gmail.com/96.m3u8
+#EXTINF:-1,FUEL TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/97.m3u8
+#EXTINF:-1,PFC
+http://37.59.45.208:1234/live/clikmega/@gmail.com/98.m3u8
+#EXTINF:-1,CM TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/99.m3u8
