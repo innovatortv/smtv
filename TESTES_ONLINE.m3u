@@ -11,13 +11,13 @@ http://188.138.1.104:8000/live/iptv/iptv/555.ts
  #EXTINF:-1,SIC NOTÍCIAS
  http://188.138.1.104:8000/live/iptv/iptv/4.ts
 #EXTINF:-1,CMTV
-http://188.138.1.104:8000/live/iptv/iptv/253.ts
+http://188.138.1.104:8000/live/iptv/iptv/253.m3u8
  #EXTINF:-1,TVI24
  http://188.138.1.104:8000/live/iptv/iptv/340.ts
  #EXTINF:-1,TVI FICÇAO
  http://188.138.1.104:8000/live/iptv/iptv/594.ts
 #EXTINF:-1,A QUINTA
-http://188.138.1.104:8000/live/iptv/iptv/502.ts
+http://188.138.1.104:8000/live/iptv/iptv/502.m3u8
  #EXTINF:-1,CANAL HISTORIA
  http://188.138.1.104:8000/live/iptv/iptv/574.ts
  #EXTINF:-1,ODISSEIA
@@ -35,7 +35,7 @@ http://188.138.1.104:8000/live/iptv/iptv/502.ts
  #EXTINF:-1,A BOLA TV
  http://188.138.1.104:8000/live/iptv/iptv/585.ts
 #EXTINF:-1,BENFICA TV 1 HD
-http://188.138.1.104:8000/live/iptv/iptv/15.ts
+http://188.138.1.104:8000/live/iptv/iptv/15.m3u8
 #EXTINF:-1,BENFICA TV 1
 http://188.138.1.104:8000/live/iptv/iptv/713.ts
 #EXTINF:-1,BENFICA TV 2
@@ -43,9 +43,9 @@ http://188.138.1.104:8000/live/iptv/iptv/16.ts
 #EXTINF:-1,SPORTING TV
 http://188.138.1.104:8000/live/iptv/iptv/557.ts
 #EXTINF:-1,SPORT TV 1 HD
-http://188.138.1.104:8000/live/iptv/iptv/207.ts
+http://188.138.1.104:8000/live/iptv/iptv/207.m3u8
 #EXTINF:-1,SPORTTV1
-http://188.138.1.104:8000/live/iptv/iptv/288.ts
+http://188.138.1.104:8000/live/iptv/iptv/288.m3u8
 #EXTINF:-1,SPORTTV2
 http://188.138.1.104:8000/live/iptv/iptv/607.ts
 #EXTINF:-1,SPORTTV3
