@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1,rtp1
+http://iptv.temnet.pt:8000/live/manuel/manuel/3.m3u8
+#EXTINF:-1,RTP2
+http://iptv.temnet.pt:8000/live/manuel/manuel/6.m3u8
+#EXTINF:-1,SIC
+http://iptv.temnet.pt:8000/live/manuel/manuel/7.m3u8
+#EXTINF:-1,TVI
+http://iptv.temnet.pt:8000/live/manuel/manuel/8.m3u8
+#EXTINF:-1,TVI 24
+http://iptv.temnet.pt:8000/live/manuel/manuel/12.m3u8
+#EXTINF:-1,SIC Noticias
+http://iptv.temnet.pt:8000/live/manuel/manuel/10.m3u8
+#EXTINF:-1,SIC Mulher
+http://iptv.temnet.pt:8000/live/manuel/manuel/13.m3u8
+#EXTINF:-1,SIC Radical
+http://iptv.temnet.pt:8000/live/manuel/manuel/14.m3u8
+#EXTINF:-1,RTP Informaçao
+http://iptv.temnet.pt:8000/live/manuel/manuel/9.m3u8
+#EXTINF:-1,SIC KIDS
+http://iptv.temnet.pt:8000/live/manuel/manuel/21.m3u8
+#EXTINF:-1,BABY TV
+http://iptv.temnet.pt:8000/live/manuel/manuel/20.m3u8
+#EXTINF:-1,Disney Junior
+http://iptv.temnet.pt:8000/live/manuel/manuel/17.m3u8
+#EXTINF:-1,Disney Channel
+http://iptv.temnet.pt:8000/live/manuel/manuel/16.m3u8
+#EXTINF:-1,PANDA
+http://iptv.temnet.pt:8000/live/manuel/manuel/15.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://iptv.temnet.pt:8000/live/manuel/manuel/18.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://iptv.temnet.pt:8000/live/manuel/manuel/44.m3u8
+#EXTINF:-1,A bola
+http://iptv.temnet.pt:8000/live/manuel/manuel/4.m3u8
+#EXTINF:-1,EUROSPORT
+http://iptv.temnet.pt:8000/live/manuel/manuel/19.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://iptv.temnet.pt:8000/live/manuel/manuel/27.m3u8
+#EXTINF:-1,BTV1
+http://iptv.temnet.pt:8000/live/manuel/manuel/81.m3u8
+#EXTINF:-1,BTV2
+http://iptv.temnet.pt:8000/live/manuel/manuel/28.m3u8
+#EXTINF:-1,SPORTING TV
+http://iptv.temnet.pt:8000/live/manuel/manuel/37.m3u8
+#EXTINF:-1,SPORTV1
+http://iptv.temnet.pt:8000/live/manuel/manuel/32.m3u8
+#EXTINF:-1,SPORTV2
+http://iptv.temnet.pt:8000/live/manuel/manuel/33.m3u8
+#EXTINF:-1,SPORTV3
+http://iptv.temnet.pt:8000/live/manuel/manuel/34.m3u8
+#EXTINF:-1,SPORTV4
+http://iptv.temnet.pt:8000/live/manuel/manuel/35.m3u8
+#EXTINF:-1,SPORTV5
+http://iptv.temnet.pt:8000/live/manuel/manuel/36.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://iptv.temnet.pt:8000/live/manuel/manuel/26.m3u8
+#EXTINF:-1,vh1
+http://iptv.temnet.pt:8000/live/manuel/manuel/1.m3u8
+#EXTINF:-1,TRACE TV
+http://iptv.temnet.pt:8000/live/manuel/manuel/52.m3u8
+#EXTINF:-1,https://iptv.zone AFRO MUSIC
+http://iptv.temnet.pt:8000/live/manuel/manuel/39.m3u8
+#EXTINF:-1,MCM POP
+http://iptv.temnet.pt:8000/live/manuel/manuel/43.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://iptv.temnet.pt:8000/live/manuel/manuel/25.m3u8
+#EXTINF:-1,FOX COMEDY
+http://iptv.temnet.pt:8000/live/manuel/manuel/41.m3u8
+#EXTINF:-1,FOX HD
+http://iptv.temnet.pt:8000/live/manuel/manuel/87.m3u8
+#EXTINF:-1,FOX MOVIES
+http://iptv.temnet.pt:8000/live/manuel/manuel/59.m3u8
+#EXTINF:-1,FOX Life HD
+http://iptv.temnet.pt:8000/live/manuel/manuel/85.m3u8
+#EXTINF:-1,Fox Crime HD
+http://iptv.temnet.pt:8000/live/manuel/manuel/84.m3u8
+#EXTINF:-1,AXN HD
+http://iptv.temnet.pt:8000/live/manuel/manuel/88.m3u8
+#EXTINF:-1,AXN White HD
+http://iptv.temnet.pt:8000/live/manuel/manuel/83.m3u8
+#EXTINF:-1,AXN Black HD
+http://iptv.temnet.pt:8000/live/manuel/manuel/82.m3u8
+#EXTINF:-1,TVC1
+http://iptv.temnet.pt:8000/live/manuel/manuel/2.m3u8
+#EXTINF:-1,TVC2
+http://iptv.temnet.pt:8000/live/manuel/manuel/29.m3u8
+#EXTINF:-1,TVC3
+http://iptv.temnet.pt:8000/live/manuel/manuel/31.m3u8
+#EXTINF:-1,TVC4
+http://iptv.temnet.pt:8000/live/manuel/manuel/30.m3u8
+#EXTINF:-1,AMC
+http://iptv.temnet.pt:8000/live/manuel/manuel/22.m3u8
+#EXTINF:-1,TVC SERIES
+http://iptv.temnet.pt:8000/live/manuel/manuel/38.m3u8
+#EXTINF:-1,RTP Africa
+http://iptv.temnet.pt:8000/live/manuel/manuel/11.m3u8
+#EXTINF:-1,CMTV
+http://iptv.temnet.pt:8000/live/manuel/manuel/24.m3u8
+#EXTINF:-1,TV RECORD
+http://iptv.temnet.pt:8000/live/manuel/manuel/64.m3u8
+#EXTINF:-1,GLOBO PREMIUM
+http://iptv.temnet.pt:8000/live/manuel/manuel/42.m3u8
+#EXTINF:-1,RECORD NEWS
+http://iptv.temnet.pt:8000/live/manuel/manuel/54.m3u8
+#EXTINF:-1,fox news
+http://iptv.temnet.pt:8000/live/manuel/manuel/5.m3u8
+#EXTINF:-1,TV5 MONDE
+http://iptv.temnet.pt:8000/live/manuel/manuel/74.m3u8
+#EXTINF:-1,TBN Enlace
+http://iptv.temnet.pt:8000/live/manuel/manuel/80.m3u8
+#EXTINF:-1,Russia Today English
+http://iptv.temnet.pt:8000/live/manuel/manuel/79.m3u8
+#EXTINF:-1,RT esp
+http://iptv.temnet.pt:8000/live/manuel/manuel/78.m3u8
+#EXTINF:-1,CUBAVISION
+http://iptv.temnet.pt:8000/live/manuel/manuel/76.m3u8
+#EXTINF:-1,AL JAZZERA INTL
+http://iptv.temnet.pt:8000/live/manuel/manuel/75.m3u8
+#EXTINF:-1,EE
+http://iptv.temnet.pt:8000/live/manuel/manuel/40.m3u8
+#EXTINF:-1,A E
+http://iptv.temnet.pt:8000/live/manuel/manuel/56.m3u8
+#EXTINF:-1,TLC
+http://iptv.temnet.pt:8000/live/manuel/manuel/58.m3u8
+#EXTINF:-1,MOTOR TV
+http://iptv.temnet.pt:8000/live/manuel/manuel/50.m3u8
+#EXTINF:-1,CANAL HISTORIA
+http://iptv.temnet.pt:8000/live/manuel/manuel/23.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptv.temnet.pt:8000/live/manuel/manuel/86.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.temnet.pt:8000/live/manuel/manuel/49.m3u8
+#EXTINF:-1,ODISSEIA
+http://iptv.temnet.pt:8000/live/manuel/manuel/51.m3u8
+#EXTINF:-1,CBS REALITY
+http://iptv.temnet.pt:8000/live/manuel/manuel/45.m3u8
+#EXTINF:-1,TOROS TV
+http://iptv.temnet.pt:8000/live/manuel/manuel/57.m3u8
+#EXTINF:-1,PLAYBOY
+http://iptv.temnet.pt:8000/live/manuel/manuel/46.m3u8
+#EXTINF:-1,VENUS
+http://iptv.temnet.pt:8000/live/manuel/manuel/53.m3u8
