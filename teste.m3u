@@ -28,3 +28,5 @@ http://iptv.ndasat.com:88/000001/000001/66.ch
 http://iptv.ndasat.com:88/000001/000001/65.ch 
 #EXTINF:-1,PT-SportTV1
 http://iptv.ndasat.com:88/000001/000001/64.ch
+#EXTINF:-1,TVI REALITY
+http://iptvportugal.selfip.com:8000/live/teste/teste/64.m3u8 
