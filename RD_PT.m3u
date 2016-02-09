@@ -71,3 +71,32 @@ http://hyper.de1-eu.com:8000/live/saeid/saeid/678.m3u8
 http://hyper.de1-eu.com:8000/live/saeid/saeid/679.m3u8
 #EXTINF:-1,Portugal: A BOLA TV
 http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
+
+#EXTINF:-1,PORTUGAL:TVCINE 1 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/511.ts
+#EXTINF:-1,PORTUGAL:TVCINE 2 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/512.ts
+#EXTINF:-1,PORTUGAL:TVCINE 3 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/513.ts
+#EXTINF:-1,PORTUGAL:TVCINE 4 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/514.ts
+#EXTINF:-1,PORTUGAL:SPORT TV1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/515.ts
+#EXTINF:-1,PORTUGAL:SPORT TV2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/516.ts
+#EXTINF:-1,PORTUGAL:SPORT TV3
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/517.ts
+#EXTINF:-1,PORTUGAL:SPORT TV4
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/518.ts
+#EXTINF:-1,PORTUGAL:PANDA
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/597.ts
+#EXTINF:-1,PORTUGAL:CMTV
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/598.ts
+#EXTINF:-1,PORTUGAL:BENFICA TV 1 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/520.ts
+#EXTINF:-1,Cartoon Network
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/373.ts
+#EXTINF:-1,PORTUGAL: TV record
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/602.ts
+#EXTINF:-1,BOOMERANG
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/378.ts
