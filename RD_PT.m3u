@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR magenta][I][B]IPTV PORTUGAL PREMIUM[/B][/I][/COLOR]
+#EXTINF:-1, IPTV PORTUGAL PREMIUM
 http://0.0.0.0:1234
 #EXTINF:-1, RTP 1
 http://hyper.de1-eu.com:8000/live/saeid/saeid/657.m3u8
@@ -100,3 +100,383 @@ http://ipsatb.no-ip.info:8000/live/titanic/titanic/373.ts
 http://ipsatb.no-ip.info:8000/live/titanic/titanic/602.ts
 #EXTINF:-1,BOOMERANG
 http://ipsatb.no-ip.info:8000/live/titanic/titanic/378.ts
+#EXTINF:-1, MUNDO
+#EXTM3U
+#EXTINF:-1, IPTV PORTUGAL E MUNDO 2
+http://0.0.0.0:1234
+
+#EXTINF:-1,====PORTUGAL====
+http://0.0.0.0:1234
+
+#EXTINF:-1,PORTUGAL:RTP1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/606.ts
+#EXTINF:-1,PORTUGAL:RTP 2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/607.ts
+#EXTINF:-1,PORTUGAL:RTP 3
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/608.ts
+#EXTINF:-1,PORTUGAL:SIC
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/596.ts
+#EXTINF:-1,PORTUGAL:TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
+#EXTINF:-1,PORTUGAL:TVCINE 1 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/511.ts
+#EXTINF:-1,PORTUGAL:TVCINE 2 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/512.ts
+#EXTINF:-1,PORTUGAL:TVCINE 3 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/513.ts
+#EXTINF:-1,PORTUGAL:TVCINE 4 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/514.ts
+#EXTINF:-1,PORTUGAL:TLC
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/604.ts
+#EXTINF:-1,PORTUGAL:SPORT TV1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/515.ts
+#EXTINF:-1,PORTUGAL:SPORT TV2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/516.ts
+#EXTINF:-1,PORTUGAL:SPORT TV3
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/517.ts
+#EXTINF:-1,PORTUGAL:SPORT TV4
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/518.ts
+#EXTINF:-1,PORTUGAL:SPORT TV5
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/519.ts
+#EXTINF:-1,PORTUGAL:Sic Radical
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/609.ts
+#EXTINF:-1,PORTUGAL:PANDA
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/597.ts
+#EXTINF:-1,PORTUGAL:CMTV
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/598.ts
+#EXTINF:-1,PORTUGAL:BENFICA TV 1 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/520.ts
+#EXTINF:-1,PORTUGAL:BENFICA TV 2 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/599.ts
+#EXTINF:-1,Cartoon Network
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/373.ts
+#EXTINF:-1,PORTUGAL: TVséries HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/600.ts
+#EXTINF:-1,PORTUGAL: TVI ficcao
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/601.ts
+#EXTINF:-1,PORTUGAL: TV record
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/602.ts
+#EXTINF:-1,BOOMERANG
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/378.ts
+#EXTINF:-1,PORTUGAL: TV GLOBO PREMIUM
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/603.ts
+#EXTINF:-1,PORTUGAL: SPORTING TV HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/605.ts
+#EXTINF:-1,PORTUGAL: SIC Mulher
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/610.ts
+
+
+#EXTINF:-1,====SPAIN====
+http://0.0.0.0:1234
+
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/1735.ts
+#EXTINF:-1,ES: Canal La Liga
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/482.ts
+#EXTINF:-1,ES: Canal Futbol HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/483.ts
+#EXTINF:-1,ES: Hollywood
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/564.ts
+#EXTINF:-1,ES: Canal Comedy
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/565.ts
+#EXTINF:-1,ES: Canal  Accion
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/563.ts
+
+#EXTINF:-1,====SKY UK====
+http://0.0.0.0:1234
+
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/1733.ts
+#EXTINF:-1,UK True Movies1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/89.ts
+#EXTINF:-1,UK True Movies 2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/74.ts
+#EXTINF:-1,UK Syfy UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/96.ts
+#EXTINF:-1,UK SKYArt 1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/106.ts
+#EXTINF:-1,UK Sky Two
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/76.ts
+#EXTINF:-1,UK Sky Sport News HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/107.ts
+#EXTINF:-1,UK Sky Sport 1 UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/112.ts
+#EXTINF:-1,UK Sky Sport 2 UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/111.ts
+#EXTINF:-1,UK Sky Sport 3 UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/110.ts
+#EXTINF:-1,UK sky sport 4
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/109.ts
+#EXTINF:-1,UK Sky Sport 5 UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/108.ts
+#EXTINF:-1,UK Sky Sports F1 UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/68.ts
+#EXTINF:-1,UK Setantasport
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/915.ts
+#EXTINF:-1,UK ESPN
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/914.ts
+#EXTINF:-1,UK BT Sport Europe
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/913.ts
+#EXTINF:-1,UK BT Sport 1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/911.ts
+#EXTINF:-1,UK BT Sport 2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/912.ts
+#EXTINF:-1,UK British Muslim
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/916.ts
+#EXTINF:-1,UK Sky One
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/69.ts
+#EXTINF:-1,UK Sky Movies Thriller
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/95.ts
+#EXTINF:-1,UK Sky Movies Sci-Fi & Horror
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/114.ts
+#EXTINF:-1,UK Sky Movies Premiere UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/115.ts
+#EXTINF:-1,UK Sky Movies Modern HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/116.ts
+#EXTINF:-1,UK Sky Movies Family UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/79.ts
+#EXTINF:-1,UK Sky Movies Comedy HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/118.ts
+#EXTINF:-1,UK Sky Movies Action & Adventure
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/119.ts
+#EXTINF:-1,UK Sky Family UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/121.ts
+#EXTINF:-1,UK Sky Atlantic
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/70.ts
+#EXTINF:-1,UK Rte One UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/88.ts
+#EXTINF:-1,UK National Geographic UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/102.ts
+#EXTINF:-1,UK Movies-4men Uk
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/98.ts
+#EXTINF:-1,UK ITV 1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/84.ts
+#EXTINF:-1,UK ITV 2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/83.ts
+#EXTINF:-1,UK ITV 3
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/82.ts
+#EXTINF:-1,UK ITV 4
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/81.ts
+#EXTINF:-1,UK Five
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/99.ts
+#EXTINF:-1,UKCBS Reality UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/78.ts
+#EXTINF:-1,UK Film4 UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/100.ts
+#EXTINF:-1,UK Eurosport 1 UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/92.ts
+#EXTINF:-1,UK Eurosport 2 UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/91.ts
+#EXTINF:-1,UK Discovery Science UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/104.ts
+#EXTINF:-1,UK DISCOVERY HOME & HEALTH
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/123.ts
+#EXTINF:-1,UK Discovery History UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/124.ts
+#EXTINF:-1,UK Discovery Channel UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/125.ts
+#EXTINF:-1,UK cbs drama
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/75.ts
+#EXTINF:-1,UK Box Nation UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/94.ts
+#EXTINF:-1,UK BBC One
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/130.ts
+#EXTINF:-1,UK BBC Two
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/86.ts
+#EXTINF:-1,UK BBC Three
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/85.ts
+#EXTINF:-1,UK BBC Four
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/101.ts
+#EXTINF:-1,UK B4U Movies
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/71.ts
+#EXTINF:-1,UK Animal Planet UK
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/105.ts
+
+#EXTINF:-1,====BEINSPORT====
+http://0.0.0.0:1234
+
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/1739.ts
+#EXTINF:-1,BEIN MOVIES 1 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/379.ts
+#EXTINF:-1,BEIN MOVIES 2 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/382.ts
+#EXTINF:-1,BEIN SPORTS 1 HD AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/186.ts
+#EXTINF:-1,BEIN SPORTS 2 HD AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/188.ts
+#EXTINF:-1,BEIN SPORTS 3 HD AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/189.ts
+#EXTINF:-1,BEIN SPORTS 4 HD AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/266.ts
+#EXTINF:-1,BEIN SPORTS 5 HD AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/267.ts
+#EXTINF:-1,BEIN SPORTS 6 HD AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/268.ts
+#EXTINF:-1,BEIN SPORTS HD7 AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/7.ts
+#EXTINF:-1,BEIN SPORTS HD8 AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/8.ts
+#EXTINF:-1,BEIN SPORTS HD9 AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/9.ts
+#EXTINF:-1,BEIN SPORTS HD10 AR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/10.ts
+#EXTINF:-1,BEINSPORT NEWS ARABIC
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/685.ts
+#EXTINF:-1,Abu Dhabi Sports 1 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/579.ts
+#EXTINF:-1,Abu Dhabi Sports 2 HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/1669.ts
+#EXTINF:-1,BEINSPORT 1 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/388.ts
+#EXTINF:-1,BEINSPORT 2 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/389.ts
+#EXTINF:-1,BEINSPORT 3 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/390.ts
+#EXTINF:-1,BEINSPORT 4 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/391.ts
+#EXTINF:-1,BEINSPORT 5 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/392.ts
+#EXTINF:-1,BEINSPORT 6 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/393.ts
+#EXTINF:-1,BEINSPORT 7 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/394.ts
+#EXTINF:-1,BEINSPORT 8 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/395.ts
+#EXTINF:-1,BEINSPORT 9 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/396.ts
+#EXTINF:-1,BEINSPORT 10 SD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/397.ts
+#EXTINF:-1,ALKASS1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/418.ts
+#EXTINF:-1,ALKAAS2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/387.ts
+#EXTINF:-1,ALKASS3
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/419.ts
+#EXTINF:-1,ALKASS4
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/420.ts
+
+#EXTINF:-1,[COLOR magenta][I][B]====OSN====[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/1748.ts
+#EXTINF:-1,OSN-Travel Channel HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/354.ts
+#EXTINF:-1,OSN-Extreme Sports Channel
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/355.ts
+#EXTINF:-1,OSN-Discovery-Sc-HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/357.ts
+#EXTINF:-1,OSN-CBS Reality
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/356.ts
+#EXTINF:-1,OSN-Animal-Planet-HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/358.ts
+#EXTINF:-1,OSN MBC P Variety HD
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/359.ts
+
+#EXTINF:-1,====CanalSat_Canal+====
+http://0.0.0.0:1234
+
+
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/1731.ts
+#EXTINF:-1,TF1 FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/58.ts
+#EXTINF:-1,FRANCE 2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/137.ts
+#EXTINF:-1,FRANCE 3
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/61.ts
+#EXTINF:-1,FRANCE 4
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/60.ts
+#EXTINF:-1,FRANCE 5
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/59.ts
+#EXTINF:-1,M6
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/138.ts
+#EXTINF:-1,CANAL+
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/52.ts
+#EXTINF:-1,CANAL+ CINEMA FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/56.ts
+#EXTINF:-1,CANAL+ FAMILY
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/53.ts
+#EXTINF:-1,CANAL+ DECALE
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/54.ts
+#EXTINF:-1,CANAL+ SERIE
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/55.ts
+#EXTINF:-1,CANAL+ SPORT
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/57.ts
+#EXTINF:-1,CINE PREMIER
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/135.ts
+#EXTINF:-1,CINE+ FAMILY FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/65.ts
+#EXTINF:-1,CINE+ FRISSON FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/64.ts
+#EXTINF:-1,CINE+ CLASSIC FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/67.ts
+#EXTINF:-1,CINE EMOTION
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/136.ts
+#EXTINF:-1,FR: Action
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/611.ts
+#EXTINF:-1,FR: W9
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/337.ts
+#EXTINF:-1,FR E ! Entertainment
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/1670.ts
+#EXTINF:-1,Nrj 12
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/522.ts
+#EXTINF:-1,FR: LCP
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/334.ts
+#EXTINF:-1,FR: i Tele
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/336.ts
+#EXTINF:-1,EURONEWS FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/674.ts
+#EXTINF:-1,FR: France O
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/345.ts
+#EXTINF:-1,FR: Arte
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/338.ts
+#EXTINF:-1,EUROSPORT
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/377.ts
+#EXTINF:-1,TV5 MONDE FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/675.ts
+#EXTINF:-1,FR: CINE Polar
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/558.ts
+#EXTINF:-1,6TER FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/673.ts
+#EXTINF:-1,OCS MAX
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/132.ts
+#EXTINF:-1,OCS GEANTS
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/133.ts
+#EXTINF:-1,OCS CITY
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/134.ts
+#EXTINF:-1,FR:  Nat Geo Wild
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/612.ts
+#EXTINF:-1,NATIONAL GEO FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/139.ts
+#EXTINF:-1,DISCOVERY FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/63.ts
+#EXTINF:-1,DISCOVERY SCIENCE FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/62.ts
+#EXTINF:-1,USHUAIA
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/372.ts
+#EXTINF:-1,Chasse et peche
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/471.ts
+#EXTINF:-1,Animaux
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/478.ts
+#EXTINF:-1,PIWI
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/374.ts
+#EXTINF:-1,MANGAS
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/375.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/376.ts
+#EXTINF:-1,FR: Gulli
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/335.ts
+#EXTINF:-1,FR: Disney Junior
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/472.ts
+#EXTINF:-1,BEINSPORT 1 HD FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/49.ts
+#EXTINF:-1,BEINSPORT 2 HD FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/50.ts
+#EXTINF:-1,BEINSPORT 3 HD FR
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/51.ts
+#EXTINF:-1,A.LA.CARTE.1
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/544.ts
+#EXTINF:-1,A.LA.CARTE.2
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/545.ts
+#EXTINF:-1,A.LA.CARTE.3
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/546.ts
+#EXTINF:-1,A.LA.CARTE.4
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/539.ts
