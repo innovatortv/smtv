@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR magenta][I][B]IPTV PORTUGAL PREMIUM[/B][/I][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1, RTP 1
+http://hyper.de1-eu.com:8000/live/saeid/saeid/657.m3u8
+#EXTINF:-1, RTP 2
+http://hyper.de1-eu.com:8000/live/saeid/saeid/656.m3u8
+#EXTINF:-1, SIC
+http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
+#EXTINF:-1, TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
+#EXTINF:-1,Portugal: fox crime
+http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8
+#EXTINF:-1,Portugal: TVCINE 4
+http://hyper.de1-eu.com:8000/live/saeid/saeid/647.m3u8
+#EXTINF:-1,Portugal: TVCINE 3
+http://hyper.de1-eu.com:8000/live/saeid/saeid/648.m3u8
+#EXTINF:-1,Portugal: TVCINE 2
+http://hyper.de1-eu.com:8000/live/saeid/saeid/649.m3u8
+#EXTINF:-1,Portugal: TVCINE 1
+http://hyper.de1-eu.com:8000/live/saeid/saeid/650.m3u8
+#EXTINF:-1,Portugal: TV SERIES
+http://hyper.de1-eu.com:8000/live/saeid/saeid/651.m3u8
+#EXTINF:-1,Portugal: SportTV 5 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/637.m3u8
+#EXTINF:-1,Portugal: SportTV 4 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/638.m3u8
+#EXTINF:-1,Portugal: SportTV 3 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/639.m3u8
+#EXTINF:-1,Portugal: SportTV 2 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/640.m3u8
+#EXTINF:-1,Portugal: SportTV 1 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/641.m3u8
+#EXTINF:-1,Portugal: SPORTING TV
+http://hyper.de1-eu.com:8000/live/saeid/saeid/652.m3u8
+#EXTINF:-1,Portugal: SIC NOTICIAS
+http://hyper.de1-eu.com:8000/live/saeid/saeid/653.m3u8
+
+#EXTINF:-1,Portugal: PORTO CANAL (test)
+http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
+#EXTINF:-1,Portugal: ODISSEIA
+http://hyper.de1-eu.com:8000/live/saeid/saeid/659.m3u8
+#EXTINF:-1,Portugal: NATIONAL GEOGRAPHIC HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8
+#EXTINF:-1,Portugal: FX Portuga
+http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
+#EXTINF:-1,Portugal: FOX HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8
+#EXTINF:-1,Portugal: Eurosport
+http://hyper.de1-eu.com:8000/live/saeid/saeid/667.m3u8
+#EXTINF:-1,Portugal: DISNEY JUNIOR (test)
+http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
+#EXTINF:-1,Portugal: DISNEY Channel
+http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
+#EXTINF:-1,Portugal: CM TV
+http://hyper.de1-eu.com:8000/live/saeid/saeid/671.m3u8
+#EXTINF:-1,Portugal: CINEMUNDO
+http://hyper.de1-eu.com:8000/live/saeid/saeid/672.m3u8
+#EXTINF:-1,Portugal: Cartoon Network Portugal
+http://hyper.de1-eu.com:8000/live/saeid/saeid/673.m3u8
+#EXTINF:-1,Portugal: CANAL PANDA
+http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
+#EXTINF:-1,Portugal: BENFICA TV 2
+http://hyper.de1-eu.com:8000/live/saeid/saeid/676.m3u8
+#EXTINF:-1,Portugal: BENFICA TV 1
+http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8
+#EXTINF:-1,Portugal: AXN WHITE
+http://hyper.de1-eu.com:8000/live/saeid/saeid/678.m3u8
+#EXTINF:-1,Portugal: AXN BLACK
+http://hyper.de1-eu.com:8000/live/saeid/saeid/679.m3u8
+#EXTINF:-1,Portugal: A BOLA TV
+http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
