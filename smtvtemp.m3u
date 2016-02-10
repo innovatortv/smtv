@@ -11,3 +11,14 @@ http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/58.ts
 http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/55.ts
 #EXTINF:-1,BENFICA TV 1 HD
 http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/53.ts
+#EXTINF:0,10FEV
+#EXTINF:-1,PT: Sport TV 1 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1110.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1111.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1112.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1113.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1179.ts
