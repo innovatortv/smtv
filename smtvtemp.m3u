@@ -176,3 +176,295 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12090.m3u8
 http://luckyiptv.ddns.net:23000/live/andi/andi/12091.m3u8
 #EXTINF:-1,PT: 24 Kitchen
 http://luckyiptv.ddns.net:23000/live/andi/andi/12092.m3u8v
+
+#EXTINF:-1,Portugal IPTV Channels
+#EXTINF:0,RTP 1
+http://89.163.145.119:8000/live/casa/casa/3.ts
+#EXTINF:0,RTP 2
+http://89.163.145.119:8000/live/casa/casa/5.ts
+#EXTINF:0,SIC
+http://89.163.145.119:8000/live/casa/casa/11.ts
+#EXTINF:0,TVI
+http://89.163.145.119:8000/live/casa/casa/15.ts
+#EXTINF:0,SIC NOTICIAS
+http://89.163.145.119:8000/live/casa/casa/35.ts
+#EXTINF:0,RTP INFORMACAO
+http://89.163.145.119:8000/live/casa/casa/34.ts
+#EXTINF:0,TVI24
+http://89.163.145.119:8000/live/casa/casa/36.ts
+#EXTINF:0,TVI FICCAO
+http://89.163.145.119:8000/live/casa/casa/17.ts
+#EXTINF:0,TVI REALITY
+http://89.163.145.119:8000/live/casa/casa/16.ts
+#EXTINF:0,SIC MULHER
+http://89.163.145.119:8000/live/casa/casa/13.ts
+#EXTINF:0,SIC CARAS
+http://89.163.145.119:8000/live/casa/casa/12.ts
+#EXTINF:0,SIC RADICAL
+http://89.163.145.119:8000/live/casa/casa/14.ts
+#EXTINF:0,RTP MEMORIA
+http://89.163.145.119:8000/live/casa/casa/10.ts
+#EXTINF:0,RTP AFRICA
+http://89.163.145.119:8000/live/casa/casa/7.ts
+#EXTINF:0,——DESPORTO————
+http://89.163.145.119:8000/live/casa/casa/43.ts
+#EXTINF:0,SPORTTV 1 HD
+http://89.163.145.119:8000/live/casa/casa/52.ts
+#EXTINF:0,SPORTTV 1
+http://89.163.145.119:8000/live/casa/casa/53.ts
+#EXTINF:0,SPORTTV 2 HD
+http://89.163.145.119:8000/live/casa/casa/54.ts
+#EXTINF:0,SPORTTV 2
+http://89.163.145.119:8000/live/casa/casa/55.ts
+#EXTINF:0,SPORTTV 4 HD
+http://89.163.145.119:8000/live/casa/casa/57.ts
+#EXTINF:0,SPORTTV 4
+http://89.163.145.119:8000/live/casa/casa/58.ts
+#EXTINF:0,SPORTTV 3
+http://89.163.145.119:8000/live/casa/casa/56.ts
+#EXTINF:0,SPORTTV 5
+http://89.163.145.119:8000/live/casa/casa/59.ts
+#EXTINF:0,SPORTTV AMERICA
+http://89.163.145.119:8000/live/casa/casa/60.ts
+#EXTINF:0,BTV 1 HD
+http://89.163.145.119:8000/live/casa/casa/45.ts
+#EXTINF:0,BTV 1
+http://89.163.145.119:8000/live/casa/casa/46.ts
+#EXTINF:0,BTV2
+http://89.163.145.119:8000/live/casa/casa/47.ts
+#EXTINF:0,SPORTING TV HD
+http://89.163.145.119:8000/live/casa/casa/51.ts
+#EXTINF:0,EUROSPORT
+http://89.163.145.119:8000/live/casa/casa/70.ts
+#EXTINF:0,EUROSPORT 2
+http://89.163.145.119:8000/live/casa/casa/71.ts
+#EXTINF:0,EUROSPORT NEWS
+http://89.163.145.119:8000/live/casa/casa/69.ts
+#EXTINF:0,WWE
+http://89.163.145.119:8000/live/casa/casa/62.ts
+#EXTINF:0,WOOHOO
+http://89.163.145.119:8000/live/casa/casa/18.ts
+#EXTINF:0,VH1
+http://89.163.145.119:8000/live/casa/casa/133.ts
+#EXTINF:0,VH1 CLASSIC
+http://89.163.145.119:8000/live/casa/casa/134.ts
+#EXTINF:0,VEVO 1 HD
+http://89.163.145.119:8000/live/casa/casa/137.ts
+#EXTINF:0,VEVO 2 HD
+http://89.163.145.119:8000/live/casa/casa/138.ts
+#EXTINF:0,VEVO 3 HD
+http://89.163.145.119:8000/live/casa/casa/139.ts
+#EXTINF:0,TVCINE 1 HD
+http://89.163.145.119:8000/live/casa/casa/88.ts
+#EXTINF:0,TVCINE 2 HD
+http://89.163.145.119:8000/live/casa/casa/89.ts
+#EXTINF:0,TVCINE 2
+http://89.163.145.119:8000/live/casa/casa/90.ts
+#EXTINF:0,TVCINE 3 HD
+http://89.163.145.119:8000/live/casa/casa/91.ts
+#EXTINF:0,TVCINE 4 HD
+http://89.163.145.119:8000/live/casa/casa/92.ts
+#EXTINF:0,TVC SERIES
+http://89.163.145.119:8000/live/casa/casa/93.ts
+#EXTINF:0,SYFY HD
+http://89.163.145.119:8000/live/casa/casa/108.ts
+#EXTINF:0,TV RECORD
+http://89.163.145.119:8000/live/casa/casa/25.ts
+#EXTINF:0,TV GALICIA
+http://89.163.145.119:8000/live/casa/casa/27.ts
+#EXTINF:0,TRAVEL CHANNEL HD
+http://89.163.145.119:8000/live/casa/casa/152.ts
+#EXTINF:0,TPA (ANG)
+http://89.163.145.119:8000/live/casa/casa/24.ts
+#EXTINF:0,TOROS TV
+http://89.163.145.119:8000/live/casa/casa/68.ts
+#EXTINF:0,SKY SPORT 1 HD (DE)
+http://89.163.145.119:8000/live/casa/casa/74.ts
+#EXTINF:0,SKY NEWS
+http://89.163.145.119:8000/live/casa/casa/42.ts
+#EXTINF:0,SIC KIDS
+http://89.163.145.119:8000/live/casa/casa/119.ts
+#EXTINF:0,RTP MADEIRA
+http://89.163.145.119:8000/live/casa/casa/9.ts
+#EXTINF:0,RTP INTERNACIONAL
+http://89.163.145.119:8000/live/casa/casa/8.ts
+#EXTINF:0,RTP ACORES
+http://89.163.145.119:8000/live/casa/casa/6.ts
+#EXTINF:0,RTP 1 HD
+http://89.163.145.119:8000/live/casa/casa/4.ts
+#EXTINF:0,REDE TV
+http://89.163.145.119:8000/live/casa/casa/23.ts
+#EXTINF:0,RECORD NEWS
+http://89.163.145.119:8000/live/casa/casa/41.ts
+#EXTINF:0,REAL MADRID TV HD
+http://89.163.145.119:8000/live/casa/casa/73.ts
+#EXTINF:0,Q CANAL
+http://89.163.145.119:8000/live/casa/casa/19.ts
+#EXTINF:0,PORTO CANAL
+http://89.163.145.119:8000/live/casa/casa/48.ts
+#EXTINF:0,PFC HD
+http://89.163.145.119:8000/live/casa/casa/67.ts
+#EXTINF:0,PANDA BIGGS
+http://89.163.145.119:8000/live/casa/casa/115.ts
+#EXTINF:0,ONE 1 HD
+http://89.163.145.119:8000/live/casa/casa/122.ts
+#EXTINF:0,ODISSEIA
+http://89.163.145.119:8000/live/casa/casa/147.ts
+#EXTINF:0,NICK HD
+http://89.163.145.119:8000/live/casa/casa/118.ts
+#EXTINF:0,NFL HD
+http://89.163.145.119:8000/live/casa/casa/77.ts
+#EXTINF:0,NBA
+http://89.163.145.119:8000/live/casa/casa/49.ts
+#EXTINF:0,NAT GEO WILD
+http://89.163.145.119:8000/live/casa/casa/151.ts
+#EXTINF:0,NAT GEO HD
+http://89.163.145.119:8000/live/casa/casa/150.ts
+#EXTINF:0,NASCAR
+http://89.163.145.119:8000/live/casa/casa/75.ts
+#EXTINF:0,MUTV
+http://89.163.145.119:8000/live/casa/casa/66.ts
+#EXTINF:0,MUSIC VOX TV HD
+http://89.163.145.119:8000/live/casa/casa/130.ts
+#EXTINF:0,MTV PORTUGAL
+http://89.163.145.119:8000/live/casa/casa/132.ts
+#EXTINF:0,MOV HD
+http://89.163.145.119:8000/live/casa/casa/106.ts
+#EXTINF:0,MOTORS TV
+http://89.163.145.119:8000/live/casa/casa/72.ts
+#EXTINF:0,MEZZO
+http://89.163.145.119:8000/live/casa/casa/136.ts
+#EXTINF:0,MCM POP
+http://89.163.145.119:8000/live/casa/casa/131.ts
+#EXTINF:0,MAN CITY
+http://89.163.145.119:8000/live/casa/casa/76.ts
+#EXTINF:0,LIGUE 1 (FR)
+http://89.163.145.119:8000/live/casa/casa/79.ts
+#EXTINF:0,LIGA BBVA
+http://89.163.145.119:8000/live/casa/casa/80.ts
+#EXTINF:0,JIM JAM
+http://89.163.145.119:8000/live/casa/casa/111.ts
+#EXTINF:0,HOLLYWOOD HD
+http://89.163.145.119:8000/live/casa/casa/105.ts
+#EXTINF:0,HISTORIA HD
+http://89.163.145.119:8000/live/casa/casa/146.ts
+#EXTINF:0,GOLF TV
+http://89.163.145.119:8000/live/casa/casa/81.ts
+#EXTINF:0,GLOBO PORTUGAL
+http://89.163.145.119:8000/live/casa/casa/21.ts
+#EXTINF:0,GB: SKY SPORT 1
+http://89.163.145.119:8000/live/casa/casa/82.ts
+#EXTINF:0,FX
+http://89.163.145.119:8000/live/casa/casa/104.ts
+#EXTINF:0,FUEL TV
+http://89.163.145.119:8000/live/casa/casa/50.ts
+#EXTINF:0,FRANCE 24
+http://89.163.145.119:8000/live/casa/casa/32.ts
+#EXTINF:0,FR: BEIN SPORT 1 HD
+http://89.163.145.119:8000/live/casa/casa/83.ts
+#EXTINF:0,FOX NEWS
+http://89.163.145.119:8000/live/casa/casa/33.ts
+#EXTINF:0,FOX MOVIES HD
+http://89.163.145.119:8000/live/casa/casa/101.ts
+#EXTINF:0,FOX MOVIES
+http://89.163.145.119:8000/live/casa/casa/102.ts
+#EXTINF:0,FOX LIFE HD
+http://89.163.145.119:8000/live/casa/casa/103.ts
+#EXTINF:0,FOX HD
+http://89.163.145.119:8000/live/casa/casa/99.ts
+#EXTINF:0,FOX CRIME HD
+http://89.163.145.119:8000/live/casa/casa/100.ts
+#EXTINF:0,FOOD NETWORK
+http://89.163.145.119:8000/live/casa/casa/142.ts
+#EXTINF:0,FIFA TV HD
+http://89.163.145.119:8000/live/casa/casa/63.ts
+#EXTINF:0,FASHION HD
+http://89.163.145.119:8000/live/casa/casa/145.ts
+#EXTINF:0,EURONEWS
+http://89.163.145.119:8000/live/casa/casa/30.ts
+#EXTINF:0,ESPN CLASSIC
+http://89.163.145.119:8000/live/casa/casa/64.ts
+#EXTINF:0,ESKA ROCK HD
+http://89.163.145.119:8000/live/casa/casa/127.ts
+#EXTINF:0,ESKA PARTY HD
+http://89.163.145.119:8000/live/casa/casa/128.ts
+#EXTINF:0,ESKA BEST MUSIC HD
+http://89.163.145.119:8000/live/casa/casa/129.ts
+#EXTINF:0,ES: C  LIGA
+http://89.163.145.119:8000/live/casa/casa/84.ts
+#EXTINF:0,ES: C  FUTBOL
+http://89.163.145.119:8000/live/casa/casa/85.ts
+#EXTINF:0,ECONOMICO TV
+http://89.163.145.119:8000/live/casa/casa/29.ts
+#EXTINF:0,E! ENTERTAINMENT
+http://89.163.145.119:8000/live/casa/casa/109.ts
+#EXTINF:0,DJING HD
+http://89.163.145.119:8000/live/casa/casa/123.ts
+#EXTINF:0,DJING CLASSIC HD
+http://89.163.145.119:8000/live/casa/casa/124.ts
+#EXTINF:0,DJING ANIMATION HD
+http://89.163.145.119:8000/live/casa/casa/125.ts
+#EXTINF:0,DISNEY JUNIOR
+http://89.163.145.119:8000/live/casa/casa/117.ts
+#EXTINF:0,DISNEY CHANNEL
+http://89.163.145.119:8000/live/casa/casa/116.ts
+#EXTINF:0,DISCOVERY SHOWCASE HD
+http://89.163.145.119:8000/live/casa/casa/148.ts
+#EXTINF:0,DISCOVERY HD
+http://89.163.145.119:8000/live/casa/casa/149.ts
+#EXTINF:0,CNN
+http://89.163.145.119:8000/live/casa/casa/40.ts
+#EXTINF:0,CNBC
+http://89.163.145.119:8000/live/casa/casa/39.ts
+#EXTINF:0,CMTV
+http://89.163.145.119:8000/live/casa/casa/31.ts
+#EXTINF:0,CLUBLAND
+http://89.163.145.119:8000/live/casa/casa/126.ts
+#EXTINF:0,CINEMUNDO
+http://89.163.145.119:8000/live/casa/casa/94.ts
+#EXTINF:0,CHELSEA TV
+http://89.163.145.119:8000/live/casa/casa/65.ts
+#EXTINF:0,CHAMPIONS LEAGUE (LIVE)
+http://89.163.145.119:8000/live/casa/casa/86.ts
+#EXTINF:0,CBS REALITY
+http://89.163.145.119:8000/live/casa/casa/98.ts
+#EXTINF:0,CARTOON NETWORK
+http://89.163.145.119:8000/live/casa/casa/113.ts
+#EXTINF:0,CAPELA DE FATIMA
+http://89.163.145.119:8000/live/casa/casa/141.ts
+#EXTINF:0,CANЗAO NOVA
+http://89.163.145.119:8000/live/casa/casa/26.ts
+#EXTINF:0,CANAL PANDA HD
+http://89.163.145.119:8000/live/casa/casa/114.ts
+#EXTINF:0,CANAL  SPORT HD
+http://89.163.145.119:8000/live/casa/casa/78.ts
+#EXTINF:0,CAЗA E PESCA
+http://89.163.145.119:8000/live/casa/casa/144.ts
+#EXTINF:0,BR: TV BRASIL
+http://89.163.145.119:8000/live/casa/casa/22.ts
+#EXTINF:0,BR: GAZETA
+http://89.163.145.119:8000/live/casa/casa/20.ts
+#EXTINF:0,BBC NEWS
+http://89.163.145.119:8000/live/casa/casa/38.ts
+#EXTINF:0,BARЗA TV
+http://89.163.145.119:8000/live/casa/casa/61.ts
+#EXTINF:0,BABY TV
+http://89.163.145.119:8000/live/casa/casa/112.ts
+#EXTINF:0,AXN WHITE HD
+http://89.163.145.119:8000/live/casa/casa/97.ts
+#EXTINF:0,AXN HD
+http://89.163.145.119:8000/live/casa/casa/95.ts
+#EXTINF:0,AXN BLACK HD
+http://89.163.145.119:8000/live/casa/casa/96.ts
+#EXTINF:0,AMC
+http://89.163.145.119:8000/live/casa/casa/107.ts
+#EXTINF:0,ALJAZEERA
+http://89.163.145.119:8000/live/casa/casa/37.ts
+#EXTINF:0,AFRO MUSIC HD
+http://89.163.145.119:8000/live/casa/casa/135.ts
+#EXTINF:0,ABOLA TV
+http://89.163.145.119:8000/live/casa/casa/44.ts
+#EXTINF:0,24KITCHEN HD
+http://89.163.145.119:8000/live/casa/casa/143.ts
+#EXTINF:0,1HD
+http://89.163.145.119:8000/live/casa/casa/121.ts
