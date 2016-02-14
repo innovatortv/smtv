@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://aziptv.mine.nu:8000/live/shark/shark/25.m3u
+#EXTINF:-1,RTP 2
+http://aziptv.mine.nu:8000/live/shark/shark/26.m3u
+#EXTINF:-1,SIC
+http://aziptv.mine.nu:8000/live/shark/shark/40.m3u
+#EXTINF:-1,TVI
+http://aziptv.mine.nu:8000/live/shark/shark/38.m3u
+#EXTINF:-1,SIC Noticias
+http://aziptv.mine.nu:8000/live/shark/shark/41.m3u8
+#EXTINF:-1,TVI 24
+http://aziptv.mine.nu:8000/live/shark/shark/32.m3u8
+#EXTINF:-1,RTP Informação
+http://aziptv.mine.nu:8000/live/shark/shark/28.m3u8
+#EXTINF:-1,SIC RADICAL
+http://aziptv.mine.nu:8000/live/shark/shark/43.m3u8
+#EXTINF:-1,SIC MULHER
+http://aziptv.mine.nu:8000/live/shark/shark/44.m3u8
+#EXTINF:-1,SIC Caras
+http://aziptv.mine.nu:8000/live/shark/shark/78.m3u8
+#EXTINF:-1,TVI Ficção
+http://aziptv.mine.nu:8000/live/shark/shark/83.m3u8
+#EXTINF:-1,Porto Canal
+http://aziptv.mine.nu:8000/live/shark/shark/77.m3u8
+#EXTINF:-1,Canal Q
+http://aziptv.mine.nu:8000/live/shark/shark/113.m3u8
+#EXTINF:-1,TVI Reality
+http://aziptv.mine.nu:8000/live/shark/shark/156.m3u8
+#EXTINF:-1,Reality Camera
+http://aziptv.mine.nu:8000/live/shark/shark/158.m3u8
+#EXTINF:-1,TVI Reality Mosaico
+http://aziptv.mine.nu:8000/live/shark/shark/157.m3u8
+#EXTINF:-1,RTP Memória
+http://aziptv.mine.nu:8000/live/shark/shark/79.m3u8
+#EXTINF:-1,RTP Madeira
+Http://aziptv.mine.nu:8000/live/shark/shark/30.m3u8
+#EXTINF:-1,RTP Açores
+http://aziptv.mine.nu:8000/live/shark/shark/29.m3u8
+#EXTINF:-1,RTP Internacional
+http://aziptv.mine.nu:8000/live/shark/shark/31.m3u8
+#EXTINF:-1,RTP Africa
+http://aziptv.mine.nu:8000/live/shark/shark/136.m3u8
+#EXTINF:-1,TPA
+http://aziptv.mine.nu:8000/live/shark/shark/27.m3u8
+#EXTINF:-1,Tv Cabo Verde
+http://aziptv.mine.nu:8000/live/shark/shark/261.m3u8
+#EXTINF:-1,TV RECORD
+http://aziptv.mine.nu:8000/live/shark/shark/54.m3u8
+#EXTINF:-1,GLOBO PORTUGAL
+http://aziptv.mine.nu:8000/live/shark/shark/55.m3u8
+#EXTINF:-1,k
+http://aziptv.mine.nu:8000/live/shark/shark/42.m3u8
+#EXTINF:-1,A BOLA TV
+http://aziptv.mine.nu:8000/live/shark/shark/46.m3u8
+#EXTINF:-1,Sport Tv 1
+http://aziptv.mine.nu:8000/live/shark/shark/100.m3u8
+#EXTINF:-1,Sport Tv 1 HD
+http://aziptv.mine.nu:8000/live/shark/shark/129.m3u8
+#EXTINF:-1,Sport Tv 2
+http://aziptv.mine.nu:8000/live/shark/shark/10.m3u8
+#EXTINF:-1,Sport Tv 2 HD
+http://aziptv.mine.nu:8000/live/shark/shark/128.m3u8
+#EXTINF:-1,Sport Tv 3
+http://aziptv.mine.nu:8000/live/shark/shark/11.m3u8
+#EXTINF:-1,Sport Tv 3 HD
+http://aziptv.mine.nu:8000/live/shark/shark/168.m3u8
+#EXTINF:-1,Sport Tv 4
+http://aziptv.mine.nu:8000/live/shark/shark/12.m3u8
+#EXTINF:-1,Sport Tv 4 HD
+http://aziptv.mine.nu:8000/live/shark/shark/101.m3u8
+#EXTINF:-1,Sport Tv 5
+http://aziptv.mine.nu:8000/live/shark/shark/13.m3u8
+#EXTINF:-1,Sport Tv 5 HD
+http://aziptv.mine.nu:8000/live/shark/shark/169.m3u8
+#EXTINF:-1,Benfica Tv 1
+http://aziptv.mine.nu:8000/live/shark/shark/14.m3u8
+#EXTINF:-1,Benfica Tv 1 HD
+http://aziptv.mine.nu:8000/live/shark/shark/140.m3u8
+#EXTINF:-1,Benfica Tv 2
+http://aziptv.mine.nu:8000/live/shark/shark/15.m3u8
+#EXTINF:-1,Sporting TV
+http://aziptv.mine.nu:8000/live/shark/shark/74.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://aziptv.mine.nu:8000/live/shark/shark/245.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://aziptv.mine.nu:8000/live/shark/shark/47.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://aziptv.mine.nu:8000/live/shark/shark/48.m3u8
+#EXTINF:-1,TVC 1
+http://aziptv.mine.nu:8000/live/shark/shark/19.m3u8
+#EXTINF:-1,TVC 2
+http://aziptv.mine.nu:8000/live/shark/shark/18.m3u8
+#EXTINF:-1,TVC 3
+http://aziptv.mine.nu:8000/live/shark/shark/17.m3u8
+#EXTINF:-1,TVC 4
+http://aziptv.mine.nu:8000/live/shark/shark/16.m3u8
+#EXTINF:-1,Hollywood
+http://aziptv.mine.nu:8000/live/shark/shark/21.m3u8
+#EXTINF:-1,Hollywood HD
+http://aziptv.mine.nu:8000/live/shark/shark/164.m3u8
+#EXTINF:-1,AXN HD
+http://aziptv.mine.nu:8000/live/shark/shark/50.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://aziptv.mine.nu:8000/live/shark/shark/51.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://aziptv.mine.nu:8000/live/shark/shark/52.m3u8
+#EXTINF:-1,SYFY
+http://aziptv.mine.nu:8000/live/shark/shark/57.m3u8
+#EXTINF:-1,FOX
+http://aziptv.mine.nu:8000/live/shark/shark/22.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://aziptv.mine.nu:8000/live/shark/shark/53.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://aziptv.mine.nu:8000/live/shark/shark/60.m3u8
+#EXTINF:-1,ODISSEIA
+http://aziptv.mine.nu:8000/live/shark/shark/69.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://aziptv.mine.nu:8000/live/shark/shark/68.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://aziptv.mine.nu:8000/live/shark/shark/20.m3u8
+#EXTINF:-1,Discovery Channel
+http://aziptv.mine.nu:8000/live/shark/shark/66.m3u8
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://aziptv.mine.nu:8000/live/shark/shark/67.m3u8
+#EXTINF:-1,Canal Historia
+http://aziptv.mine.nu:8000/live/shark/shark/70.m3u8
+#EXTINF:-1,TLC
+http://aziptv.mine.nu:8000/live/shark/shark/3.m3u8
+#EXTINF:-1,Travel Channel HD
+http://aziptv.mine.nu:8000/live/shark/shark/85.m3u8
+#EXTINF:-1,Caçavision
+http://aziptv.mine.nu:8000/live/shark/shark/137.m3u8
+#EXTINF:-1,Toros TV
+http://aziptv.mine.nu:8000/live/shark/shark/2.m3u8
+#EXTINF:-1,Canal Panda
+http://aziptv.mine.nu:8000/live/shark/shark/62.m3u8
+#EXTINF:-1,Disney Junior
+http://aziptv.mine.nu:8000/live/shark/shark/5.m3u8
+#EXTINF:-1,JIM JAM
+http://aziptv.mine.nu:8000/live/shark/shark/61.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://aziptv.mine.nu:8000/live/shark/shark/63.m3u8
+#EXTINF:-1,Sic K
+http://aziptv.mine.nu:8000/live/shark/shark/112.m3u8
+#EXTINF:-1,Nickelodeon
+http://aziptv.mine.nu:8000/live/shark/shark/8.m3u8
+#EXTINF:-1,Panda Biggs
+http://aziptv.mine.nu:8000/live/shark/shark/45.m3u8
+#EXTINF:-1,Cartoon
+http://aziptv.mine.nu:8000/live/shark/shark/64.m3u8
+#EXTINF:-1,Baby Tv
+http://aziptv.mine.nu:8000/live/shark/shark/72.m3u8
+#EXTINF:-1,Baby First
+http://aziptv.mine.nu:8000/live/shark/shark/342.m3u8
