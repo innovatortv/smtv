@@ -1,13 +1,86 @@
 #EXTM3U
-#EXTINF:-1,SPORT TV 1
-http://iptvportugal.selfip.com:8000/live/teste/teste/72.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/82.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/83.m3u8
-#EXTINF:-1,SPORT TV 1 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/114.m3u8
-#EXTINF:-1,TVC 1 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/50.m3u8
-#EXTINF:-1,TVC 1 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/100.m3u8
+
+#EXTINF:-1,
+PT: TV CINE HD 1
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6492.ts
+#EXTINF:-1,
+PT: Sportv 4
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6500.ts
+#EXTINF:-1,
+PT: Sportv 3
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6499.ts
+#EXTINF:-1,
+PT: Sportv 2
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6498.ts
+#EXTINF:-1,
+PT: Sportv 1
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6497.ts
+#EXTINF:-1,
+PT: Sporting TV
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6496.ts
+#EXTINF:-1,
+PT: Rtp 3
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6503.ts
+#EXTINF:-1,
+Por: VEVO 1
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6477.ts
+#EXTINF:-1,
+Por: TVI 24
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6478.ts
+#EXTINF:-1,
+Por: TVI
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6479.ts
+#EXTINF:-1,
+Por: TVCINE 4
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6480.ts
+#EXTINF:-1,
+https://iptv.zone Por: TVCINE 3
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6481.ts
+#EXTINF:-1,
+Por: TVCINE 1
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6483.ts
+#EXTINF:-1,
+Por: SYFY
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6484.ts
+#EXTINF:-1,
+Por: SIC Radical
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6485.ts
+#EXTINF:-1,
+Por: SIC NOTICIAS
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6486.ts
+#EXTINF:-1,
+Por: RTP INFORMACAO
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6487.ts
+#EXTINF:-1,
+Por: NICKELODEON
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6488.ts
+#EXTINF:-1,
+Por: DISNEY JUNIOR (test)
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6489.ts
+#EXTINF:-1,
+Por: BENFICA TV 2
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6490.ts
+#EXTINF:-1,
+Por: AXN HD
+ 
+http://tornado-ultra-iptv.dyndns.org:8000/live/Ggost1/jQApSqTA6u/6491.ts
