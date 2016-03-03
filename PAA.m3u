@@ -8,10 +8,14 @@ http://37.187.251.79:8080/test1/test/46.ch
 http://super-iptv.space:8000/live/vani/vani/3274.m3u8
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv1.png" group-title="PORTUGAL",[COLOR gold]Sport TV 1[/COLOR]
 http://178.33.231.219:88/Brico/Brico/64.ch
+#EXTINF:-1, SPORT TV 1 HD
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/25.m3u8
 #EXTINF:-1,Sport.TV2
 http://iptvbox.noip.us:9998/live/atik/atik/821.m3u8
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv2.png" group-title="PORTUGAL",[COLOR gold]Sport TV 2[/COLOR]
 http://super-iptv.space:8000/live/vani/vani/3273.m3u8
+#EXTINF:-1, SPORT TV 2 HD
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/26.m3u8
 #EXTINF:-1,Sport.TV3
 http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv3.png" group-title="PORTUGAL",[COLOR gold]Sport TV 3[/COLOR]
@@ -35,6 +39,8 @@ http://iptvbox.noip.us:9998/live/atik/atik/1025.m3u8
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
 #EXTINF:-1 tvg-id="benficatv.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/benficatv.png" group-title="PORTUGAL",[COLOR gold]Benfica TV 2[/COLOR]
 http://178.33.231.219:88/kh1/kh1/87.ch
+#EXTINF:-1, BENFICA TV 1
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/30.m3u8
 #EXTINF:-1,BTV2
 http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
 #EXTINF: 0, TV SPORTING
@@ -53,13 +59,21 @@ http://37.187.160.187:8000/live/bigjohn/bigjohn/956.m3u8
 
 #EXTINF:0, == CINEMA ==
 
-#EXTINF:-1,[COLOR green]TV Cine 1[/COLOR]
+#EXTINF:-1, TV CINE 1
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
-#EXTINF:-1,[COLOR green]TV Cine 2[/COLOR]
+#EXTINF:-1, TV CINE 1
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/50.m3u8
+#EXTINF:-1, TV CINE 2
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8
-#EXTINF:-1,[COLOR green]TV Cine 3[/COLOR]
+
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/51.m3u8
+#EXTINF:-1, TV CINE 3
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
-#EXTINF:-1,[COLOR green]TV Cine 4[/COLOR]
+#EXTINF:-1, TV CINE 3
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/52.m3u8
+#EXTINF:-1, TV CINE 4
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
+#EXTINF:-1, TV CINE 4
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/53.m3u8
 #EXTINF:-1,[COLOR green]TV Cine Series[/COLOR]
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
