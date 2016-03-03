@@ -1,29 +1,22 @@
 #EXTM3U
-EXTINF:-1,RTP 1
-http://bestiptv.diz.la:8000/live/teste.KingmyPro/ke0TwrWabr/271.m3u8
-#EXTINF:-1, CMTV
-http://tvdasogra.com:8880/live/adrianob/FLrx8MRC5D/514.ts
-#EXTINF:-1,BOLA TV
-http://bestiptv.diz.la:8000/live/teste.KingmyPro/ke0TwrWabr/268.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://bestiptv.diz.la:8000/live/teste.KingmyPro/ke0TwrWabr/174.m3u8
+#EXTINF:-1,Sport.TV1 HD
+http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8
+#EXTINF:-1,Sport.TV2
+http://iptvbox.noip.us:9998/live/atik/atik/821.m3u8
+#EXTINF:-1,Sport.TV3
+http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8
+#EXTINF:-1,Sport.TV4
+http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8
 
-#EXTINF:-1,SPORT TV 1 HD 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/28.m3u8 
-#EXTINF:-1,SPORT TV 2 HD 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/29.m3u8 
-#EXTINF:-1,SPORT TV 3 HD 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/30.m3u8 
-#EXTINF:-1,SPORT TV 4 HD 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/31.m3u8 
-#EXTINF:-1,SPORT TV 5 HD 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/32.m3u8 
-#EXTINF:-1,BENFICA TV 1 HD 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/33.m3u8 
-#EXTINF:-1,BENFICA TV 2 HD 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/253.m3u8 
-#EXTINF:-1,BENFICA TV 2 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/53.m3u8 
-#EXTINF:-1,SPORT TV & BENFICA 
-http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/213.m3u8
-
+#EXTINF:-1,BTV1
+http://iptvbox.noip.us:9998/live/atik/atik/1025.m3u8
+#EXTINF: 0, BTV1
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
+#EXTINF:-1,BTV2
+http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
+#EXTINF: 0, TV SPORTING
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3452.m3u8
+#EXTINF:-1,CHELSEA TV
+http://iptvbox.noip.us:9998/live/atik/atik/1024.m3u8
+#EXTINF: 0, EUROSPORT
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3482.m3u8
