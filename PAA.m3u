@@ -1,47 +1,61 @@
 #EXTM3U
 #EXTINF:0, = DESPORTO =
-#EXTINF:-1,Sport.TV1 HD
+#EXTINF:-1, SPORT TV 1
 http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv1.png" group-title="PORTUGAL",[COLOR gold]Sport TV 1 HD[/COLOR]
+#EXTINF:-1, SPORT TV 1
 http://37.187.251.79:8080/test1/test/46.ch
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv1.png" group-title="PORTUGAL",[COLOR gold]Sport TV 1[/COLOR]
+#EXTINF:-1, SPORT TV 1
 http://super-iptv.space:8000/live/vani/vani/3274.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv1.png" group-title="PORTUGAL",[COLOR gold]Sport TV 1[/COLOR]
+#EXTINF:-1, SPORT TV 1
 http://178.33.231.219:88/Brico/Brico/64.ch
-#EXTINF:-1, SPORT TV 1 HD
+#EXTINF:-1, SPORT TV 1
+http://178.33.231.219:88/kh1/kh1/64.ch
+#EXTINF:-1, SPORT TV 1
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/25.m3u8
-#EXTINF:-1,Sport.TV2
-http://iptvbox.noip.us:9998/live/atik/atik/821.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv2.png" group-title="PORTUGAL",[COLOR gold]Sport TV 2[/COLOR]
+#EXTINF:-1, SPORT TV 1
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3457.m3u8
+#EXTINF:-1, SPORT TV 1
+http://iptv.cline.in:80/live/invisibile/invisibile/494.m3u8
+#EXTINF:-1, SPORT TV 2
+http://iptvbox.noip.us:298/live/atik/atik/821.m3u8
+#EXTINF:-1, SPORT TV 2
+http://178.33.231.219:88/kh1/kh1/65.ch
+#EXTINF:-1, SPORT TV 2
 http://super-iptv.space:8000/live/vani/vani/3273.m3u8
-#EXTINF:-1, SPORT TV 2 HD
+#EXTINF:-1, SPORT TV 2
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/26.m3u8
-#EXTINF:-1,Sport.TV3
+#EXTINF:-1, SPORT TV 3
 http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv3.png" group-title="PORTUGAL",[COLOR gold]Sport TV 3[/COLOR]
+#EXTINF:-1, SPORT TV 3
+http://178.33.231.219:88/kh1/kh1/66.ch
+#EXTINF:-1, SPORT TV 3
 http://super-iptv.space:8000/live/vani/vani/3272.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv3.png" group-title="PORTUGAL",[COLOR gold]Sport TV 3[/COLOR]
+#EXTINF:-1, SPORT TV 3
 http://136.243.173.94:8000/live/genio/genio/293.m3u8
-#EXTINF:-1,Sport.TV4
+#EXTINF:-1, SPORT TV 4
 http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv4.png" group-title="PORTUGAL",[COLOR gold]Sport TV 4[/COLOR]
+#EXTINF:-1, SPORT TV 4
 http://super-iptv.space:8000/live/vani/vani/3271.m3u8
- #EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv4.png" group-title="PORTUGAL",[COLOR gold]Sport TV 4[/COLOR]
+#EXTINF:-1, SPORT TV 4
 http://super-iptv.space:8000/live/NIC/nic/3271.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv5.png" group-title="PORTUGAL",[COLOR gold]Sport TV 5[/COLOR]
+#EXTINF:-1, SPORT TV 4
+http://178.33.231.219:88/kh1/kh1/67.ch
+#EXTINF:-1, SPORT TV 5
 http://super-iptv.space:8000/live/vani/vani/3270.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sporttv5.png" group-title="PORTUGAL",[COLOR gold]Sport TV 5[/COLOR]
+#EXTINF:-1, SPORT TV 5
 http://super-iptv.space:8000/live/artan2/artan2/3270.m3u8
 
-#EXTINF:-1,BTV1
+#EXTINF:-1, BTV 1
 http://iptvbox.noip.us:9998/live/atik/atik/1025.m3u8
-#EXTINF: 0, BTV1
+#EXTINF:-1, BTV 1
+http://178.33.231.219:88/kh1/kh1/86.ch
+#EXTINF:-1, BTV 1
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/benficatv.png" group-title="PORTUGAL",[COLOR gold]Benfica TV 2[/COLOR]
+#EXTINF:-1, BTV 1
 http://178.33.231.219:88/kh1/kh1/87.ch
-#EXTINF:-1, BENFICA TV 1
+#EXTINF:-1, BTV 1
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/30.m3u8
-#EXTINF:-1,BTV2
+#EXTINF:-1, BTV 2
 http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
 #EXTINF: 0, TV SPORTING
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3452.m3u8
@@ -54,11 +68,11 @@ http://cp.dmbshare.net:8000/live/cengiz/cengiz/3482.m3u8
 
 #EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png", RTP Internacional [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png", CMTV
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png", CMTV
 http://37.187.160.187:8000/live/bigjohn/bigjohn/956.m3u8
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png", CMTV
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png", CMTV
 http://tvdasogra.com:8880/live/adrianob/FLrx8MRC5D/514.ts
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png", CMTV
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png", CMTV
 http://www.t12v.com:8000/live/prevot/prevot/498.ts
 
 #EXTINF:0, == CINEMA ==
@@ -67,17 +81,31 @@ http://www.t12v.com:8000/live/prevot/prevot/498.ts
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
 #EXTINF:-1, TV CINE 1
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/50.m3u8
+#EXTINF:-1, TV Cine 1
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
 #EXTINF:-1, TV CINE 2
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8
 #EXTINF:-1, TV CINE 2
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/51.m3u8
+#EXTINF:-1, TV Cine 2
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8
 #EXTINF:-1, TV CINE 3
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
 #EXTINF:-1, TV CINE 3
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/52.m3u8
+#EXTINF:-1, TV Cine 3
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
 #EXTINF:-1, TV CINE 4
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
 #EXTINF:-1, TV CINE 4
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/53.m3u8
-#EXTINF:-1,[COLOR green]TV Cine Series[/COLOR]
+#EXTINF:-1,TV Cine 4
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
+#EXTINF:-1, TV Cine Series
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
+#EXTINF:-1, TV Cine Series
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
+#EXTINF: 0, MOV
+http://cp.dmbshare.net:8000/live/cengiz/cengiz/3473.m3u8
+#EXTINF:-1, MOV
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/929.m3u8
