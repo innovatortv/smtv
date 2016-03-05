@@ -16,6 +16,8 @@ http://ns1.mydnspt.com:9511/live/00021/061115fubu/25.m3u8
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3457.m3u8
 #EXTINF:-1, SPORT TV 1
 http://iptv.cline.in:80/live/invisibile/invisibile/494.m3u8
+#EXTINF:-1, SPORT TV 1
+http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/19.ts
 #EXTINF:-1, SPORT TV 2
 http://iptvbox.noip.us:298/live/atik/atik/821.m3u8
 #EXTINF:-1, SPORT TV 2
@@ -24,6 +26,8 @@ http://178.33.231.219:88/kh1/kh1/65.ch
 http://super-iptv.space:8000/live/vani/vani/3273.m3u8
 #EXTINF:-1, SPORT TV 2
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/26.m3u8
+#EXTINF:-1, SPORT TV 2
+http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/20.ts
 #EXTINF:-1, SPORT TV 3
 http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8
 #EXTINF:-1, SPORT TV 3
@@ -32,6 +36,8 @@ http://178.33.231.219:88/kh1/kh1/66.ch
 http://super-iptv.space:8000/live/vani/vani/3272.m3u8
 #EXTINF:-1, SPORT TV 3
 http://136.243.173.94:8000/live/genio/genio/293.m3u8
+#EXTINF:-1, SPORT TV 3
+http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/21.ts
 #EXTINF:-1, SPORT TV 4
 http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8
 #EXTINF:-1, SPORT TV 4
@@ -40,10 +46,14 @@ http://super-iptv.space:8000/live/vani/vani/3271.m3u8
 http://super-iptv.space:8000/live/NIC/nic/3271.m3u8
 #EXTINF:-1, SPORT TV 4
 http://178.33.231.219:88/kh1/kh1/67.ch
+#EXTINF:-1, SPORT TV 4
+http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/22.ts
 #EXTINF:-1, SPORT TV 5
 http://super-iptv.space:8000/live/vani/vani/3270.m3u8
 #EXTINF:-1, SPORT TV 5
 http://super-iptv.space:8000/live/artan2/artan2/3270.m3u8
+#EXTINF:-1, SPORT TV 5
+http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/23.ts
 
 #EXTINF:-1, BTV 1
 http://iptvbox.noip.us:9998/live/atik/atik/1025.m3u8
@@ -55,10 +65,16 @@ http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
 http://178.33.231.219:88/kh1/kh1/87.ch
 #EXTINF:-1, BTV 1
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/30.m3u8
+#EXTINF:-1, BTV 1
+http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/15.ts
 #EXTINF:-1, BTV 2
 http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
-#EXTINF: 0, TV SPORTING
+#EXTINF:-1, BTV 2
+http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/11.ts
+#EXTINF: 0, SPORTING TV
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3452.m3u8
+#EXTINF:-1, SPORTING TV
+http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/18.ts
 #EXTINF:-1,CHELSEA TV
 http://iptvbox.noip.us:9998/live/atik/atik/1024.m3u8
 #EXTINF: 0, EUROSPORT
