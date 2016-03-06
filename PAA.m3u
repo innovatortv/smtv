@@ -23,6 +23,10 @@ http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/19.ts
 http://swebstreamer.hopto.me:2709/live/SS5ELUEa05/KBG4YlNvIv/902.ts
 #EXTINF:-1, SPORT TV 1
 http://51.255.36.163:8000/live/kodi/kodi/260.ts
+#EXTINF:-1, SPORT TV 1
+http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/31.ts
+#EXTINF:-1, SPORT TV 1 SD
+http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/214.ts
 #EXTINF:-1, SPORT TV 2
 http://iptvbox.noip.us:298/live/atik/atik/821.m3u8
 #EXTINF:-1, SPORT TV 2
@@ -74,13 +78,13 @@ http://178.33.231.219:88/kh1/kh1/86.ch
 #EXTINF:-1, BTV 1
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
 #EXTINF:-1, BTV 1
-http://178.33.231.219:88/kh1/kh1/87.ch
-#EXTINF:-1, BTV 1
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/30.m3u8
 #EXTINF:-1, BTV 1
 http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/15.ts
 #EXTINF:-1, BTV 1
 http://swebstreamer.hopto.me:2709/live/SS5ELUEa05/KBG4YlNvIv/907.ts
+#EXTINF:-1, BTV 2
+http://178.33.231.219:88/kh1/kh1/87.ch
 #EXTINF:-1, BTV 2
 http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
 #EXTINF:-1, BTV 2
@@ -91,8 +95,10 @@ http://swebstreamer.hopto.me:2709/live/SS5ELUEa05/KBG4YlNvIv/908.ts
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3452.m3u8
 #EXTINF:-1, SPORTING TV
 http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LFOTE/18.ts
-#EXTINF:-1,CHELSEA TV
+#EXTINF:-1, CHELSEA TV
 http://iptvbox.noip.us:9998/live/atik/atik/1024.m3u8
+#EXTINF:-1, REAL MADRID TV
+http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/189.ts
 #EXTINF: 0, EUROSPORT
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3482.m3u8
 
@@ -104,9 +110,9 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3462.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CMTV
 http://37.187.160.187:8000/live/bigjohn/bigjohn/956.m3u8
-#EXTINF:-1, CMTV
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CMTV
 http://tvdasogra.com:8880/live/adrianob/FLrx8MRC5D/514.ts
-#EXTINF:-1, CMTV
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CMTV
 http://www.t12v.com:8000/live/prevot/prevot/498.ts
 
 #EXTINF:0, == CINEMA ==
