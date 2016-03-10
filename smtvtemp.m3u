@@ -63,3 +63,34 @@ http://iptv-supplier.com:8000/live/houssem1/houssem1/2322.ts
 http://iptv-supplier.com:8000/live/houssem1/houssem1/2324.ts
 #EXTINF:-1,PT:CartoonNetWork
 http://iptv-supplier.com:8000/live/houssem1/houssem1/2323.ts
+#EXTINF:-1,= 10MAR16 =
+#‎EXTINF‬:-1,PT: TVCine 4 HD
+http://evolive-tv.com:8000/live/balla/balla/303.m3u8
+#EXTINF:-1,PT: TVCine 3 HD
+http://evolive-tv.com:8000/live/balla/balla/302.m3u8
+#EXTINF:-1,PT: TVCine 2 HD
+http://evolive-tv.com:8000/live/balla/balla/301.m3u8
+#EXTINF:-1,PT: TVCine 1 HD
+http://evolive-tv.com:8000/live/balla/balla/300.m3u8
+#EXTINF:-1,PT: TV Globo Premium
+http://evolive-tv.com:8000/live/balla/balla/290.m3u8
+#EXTINF:-1,PT: TV Globo
+http://evolive-tv.com:8000/live/balla/balla/289.m3u8
+#EXTINF:-1,PT: SyFu
+http://evolive-tv.com:8000/live/balla/balla/288.m3u8
+#EXTINF:-1,PT: SportTV 5
+http://evolive-tv.com:8000/live/balla/balla/295.m3u8
+#EXTINF:-1,PT: SportTV 4
+http://evolive-tv.com:8000/live/balla/balla/294.m3u8
+#EXTINF:-1,PT: SportTV 3
+http://evolive-tv.com:8000/live/balla/balla/293.m3u8
+#EXTINF:-1,PT: SportTV 2
+http://evolive-tv.com:8000/live/balla/balla/292.m3u8
+#EXTINF:-1,PT: SportTV 1
+http://evolive-tv.com:8000/live/balla/balla/291.m3u8
+#EXTINF:-1,PT: SIC
+http://evolive-tv.com:8000/live/balla/balla/298.m3u8
+#EXTINF:-1,PT: RTP 3
+http://evolive-tv.com:8000/live/balla/balla/299.m3u8
+#EXTINF:-1,PT: Benfica TV 1 Full HD
+http://evolive-tv.com:8000/live/balla/balla/296.m3u8
