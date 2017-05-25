@@ -1,143 +1,255 @@
-#EXTM3U#
-
-#EXTINF:-1,INFO LISTAS team 
-
-
-#EXTINF:-1,PT: Sport TV 1HD kodi
-plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/damiao/damiao/8208.m3u8&amp;streamtype=m3u8DOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-
-#EXTINF:-1,PT: Sport TV 1 HD kodi
-plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTZ349/w9xdlqNO0A/1797.m3u8&amp;streamtype=m3u8DOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,PT: Sport TV 1 kodi
-plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTZ3http://globiptv.com:8000/live/CLIENTZ349/w9xdlqNO0A/1797.m3u8&49/w9xdlqNO0A/858.m3u8&amp;streamtype=m3u8DOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-
-
-
-#EXTINF:-1,PT: Sport TV 1HD
-http://89.163.148.31:8000/live/damiao/damiao/8208.m3u8
-
-
-#EXTINF:-1,PT: Sport TV 
-http://globiptv.com:8000/live/CLIENTZ349/w9xdlqNO0A/1797.m3u8
-
-
-#EXTINF:-1,PT: Sport TV 1
-http://globiptv.com:8000/live/CLIENTZ3http://globiptv.com:8000/live/CLIENTZ349/w9xdlqNO0A/1797.m3u8
-
-
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://1.bp.blogspot.com/-VNAPydvcVYg/TyVcMHz6tFI/AAAAAAAABUE/WusRJcrlC7Y/s1600/Sport+TV+1+logo.png" group-title="",Sport TV 1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://1.bp.blogspot.com/-VNAPydvcVYg/TyVcMHz6tFI/AAAAAAAABUE/WusRJcrlC7Y/s1600/Sport+TV+1+logo.png" group-title="",Sport TV 1  
-http://163.172.217.53:8000/live/5grandiptv915/67863345/788.m3u8
- 
-#EXTINF:-1,SPORT TV 1 
-http://iptvtt.ddns.net:8000/live/tony/tony/755.m3u8
-
-#EXTINF:-1,SPORT TV 1 
-http://iptvtt.ddns.net:8000/live/tony/tony/1066.m3u8
-
-#EXTINF:-1,SPORTTV1 
-http://iptvtt.ddns.net:8000/live/tony/tony/1617.m3u8
-
-#EXTINF:-1,(PT) Sport_TV_1 
-http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2066.m3u8
-
-#EXTINF:-1,PT | SPORT TV 1 
-http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/5543.m3u8
-
-#EXTINF:-1,PT | SPORT TV 1 
-http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/202.m3u8
-
-#EXTINF:-1,PT: SPORT TV 1
-http://orbit-iptv.com:2500/live/Apo/Apo/1813.m3u8
-
-#EXTINF:-1,PT-SportTV1 
-http://es-iptv.hopto.org:8000/live/appsandroid321923092016/appsandroid321923092016/3157.m3u8
-
-
-#EXTINF:-1,PT: SPORT TV
-http://localhd.tv:8081/live/client/myclient/1721.m3u8
-
-
-#EXTINF:-1,PT: SPORT TV 1 
-http://localhd.tv:8081/live/moi/moi/1721.m3u8
-
-#EXTINF:-1,PT-SportTV1
-http://es-iptv.hopto.org:8000/live/appsandroid321923092016/appsandroid321923092016/3157.m3u8
-
-#EXTINF:-1,PT | SPORT TV 1
-http://biwsat.com:8080/live/testxxx77/0111/2989.m3u8
-
-#EXTINF:-1,facebook.com/groups/iptvfree | PT : SPORT TV 1
-http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/8/1351.m3u8
-
-
-#EXTINF:-1,PT: SPORTV 1 
-http://164.132.182.253:22921/live/Miguel/skype/183.m3u8
-
-
-#EXTINF:-1,(PT) Sport_TV_1 
-http://cdn.widestream.io:8081/push-merda4-rp4un/playlist.m3u8
-
-
-#EXTINF:-1,(PT) Sport_TV_1 
-http://www.q7t1.com:8000/live/sYKADDaJ2/SnoQc6v4hz/1119.m3u8
-
-
-#EXTINF:-1,(PT) Sport_TV_1 
-http://privatestream.tv/js/jwplayer.flash.swf
-
-#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-benfica-tv-28801.png" group-title="",Benfica TV
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.m3u8
- 
-#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-benfica-tv-28801.png" group-title="",Benfica TV alt
-http://151.80.105.182:8000/live/arslan/arslan/4804.m3u8
- 
-#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-benfica-tv-28801.png" group-title="",Benfica TV alt 2
-http://163.172.217.53:8000/live/5grandiptv915/67863345/782.m3u8
- 
-#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-benfica-tv-28801.png" group-title="",Benfica TV alt 3
-http://163.172.217.53:8000/live/5grandiptv915/67863345/783.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://1.bp.blogspot.com/-VNAPydvcVYg/TyVcMHz6tFI/AAAAAAAABUE/WusRJcrlC7Y/s1600/Sport+TV+1+logo.png" group-title="",Sport TV 1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://1.bp.blogspot.com/-VNAPydvcVYg/TyVcMHz6tFI/AAAAAAAABUE/WusRJcrlC7Y/s1600/Sport+TV+1+logo.png" group-title="",Sport TV 1 alternativa
-http://163.172.217.53:8000/live/5grandiptv915/67863345/788.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://1.bp.blogspot.com/-VNAPydvcVYg/TyVcMHz6tFI/AAAAAAAABUE/WusRJcrlC7Y/s1600/Sport+TV+1+logo.png" group-title="",SportTV 1 alt 2
-http://lsi.ddns.me:8000/live/Plextony/Fk2ad02OR9A/603.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="Sport TV 2" tvg-logo="https://4.bp.blogspot.com/-BCQKrTPDFAc/TyVcNdgUOCI/AAAAAAAABUU/Df8kVd7zBzs/s1600/Sport+TV+2+logo.png" group-title="",SportTV 2
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="Sport TV 2" tvg-logo="https://4.bp.blogspot.com/-BCQKrTPDFAc/TyVcNdgUOCI/AAAAAAAABUU/Df8kVd7zBzs/s1600/Sport+TV+2+logo.png" group-title="",SportTV 2 alternativa
-http://163.172.217.53:8000/live/5grandiptv915/67863345/789.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3" tvg-logo="https://1.bp.blogspot.com/-uRsVA6nv5pc/TyVcOrNtR4I/AAAAAAAABUk/dtCuYlHseDA/s1600/Sport+TV+3+logo.png" group-title="",SportTV 3
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3" tvg-logo="https://1.bp.blogspot.com/-uRsVA6nv5pc/TyVcOrNtR4I/AAAAAAAABUk/dtCuYlHseDA/s1600/Sport+TV+3+logo.png" group-title="",SportTV 3 alternativa
-http://163.172.217.53:8000/live/5grandiptv915/67863345/790.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="Sport TV 4" tvg-logo="https://3.bp.blogspot.com/-6jo5ZqYiZx0/VSZNtEPUFjI/AAAAAAAAEwA/-4fPwC4NaGo/s1600/Sport%2BTV%2B4%2Blogo.png" group-title="",SportTV 4
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="Sport TV 4" tvg-logo="https://3.bp.blogspot.com/-6jo5ZqYiZx0/VSZNtEPUFjI/AAAAAAAAEwA/-4fPwC4NaGo/s1600/Sport%2BTV%2B4%2Blogo.png" group-title="",SportTV 4 alternativa
-http://163.172.217.53:8000/live/5grandiptv915/67863345/791.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="Sport TV 5" tvg-logo="https://4.bp.blogspot.com/-os26Az1gG7k/VSZNvrEksZI/AAAAAAAAEwY/DtaZ-mocxZo/s1600/Sport%2BTV%2B5%2Blogo.png" group-title="",SportTV 5
-http://163.172.217.53:8000/live/5grandiptv915/67863345/792.m3u8
-
-#EXTINF:-1,Acestream / sopcast
-
-#EXTINF:-1,PT Sporm3u8 TV1  sopcast
-sop://broker.sopcast.com:3912/262492
-
-#EXTINF:-1,PT Sporm3u8 TV1 arenavision 8
-http://avod.me/play/97b86c30c70c446cb06393734183717e28f5b5dd
-
-
-#EXTINF:-1,PT Sporm3u8 TV1 arenavision 9
-http://avod.me/play/5832e1cf2d1e91a536290c21fcf8ecb963e4c916
+#EXTM3U
+#EXTINF:-1,TVI Reality (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2696.ts
+#EXTINF:-1,TVI Reality HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2695.ts
+#EXTINF:-1,Redlight HD (US)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2564.ts
+#EXTINF:-1,A&E (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2656.ts
+#EXTINF:-1,ABC News (US)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2595.ts
+#EXTINF:-1,AMC (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2655.ts
+#EXTINF:-1,AXN Black (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2652.ts
+#EXTINF:-1,AXN (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2654.ts
+#EXTINF:-1,AXN Black HD
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2653.ts
+#EXTINF:-1,AXN HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2651.ts
+#EXTINF:-1,AXN White (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2650.ts
+#EXTINF:-1,AXN White HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2649.ts
+#EXTINF:-1,BBC News (US)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2594.ts
+#EXTINF:-1,Caça e Pesca (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2690.ts
+#EXTINF:-1,Caçavision (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2689.ts
+#EXTINF:-1,Cam: Praia de Copacabana HD - Brasil
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2718.ts
+#EXTINF:-1,Cam: Praia do Matosinhos HD - Portugal
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2717.ts
+#EXTINF:-1,Canal Q (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2714.ts
+#EXTINF:-1,Cartoon Network (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2626.ts
+#EXTINF:-1,CBS Reality (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2713.ts
+#EXTINF:-1,Cinemundo TV (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2648.ts
+#EXTINF:-1,CMTV (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2712.ts
+#EXTINF:-1,CMTV HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2711.ts
+#EXTINF:-1,CNN (US)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2593.ts
+#EXTINF:-1,Discovery Channel (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2608.ts
+#EXTINF:-1,Discovery Channel HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2607.ts
+#EXTINF:-1,Discovery Showcase (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2606.ts
+#EXTINF:-1,Discovery Showcase HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2605.ts
+#EXTINF:-1,Disney Channel (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2625.ts
+#EXTINF:-1,Disney Junior (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2624.ts
+#EXTINF:-1,E! Entertainment (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2693.ts
+#EXTINF:-1,Euronews (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2592.ts
+#EXTINF:-1,Euronews Espanha (ES)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2590.ts
+#EXTINF:-1,Euronews France (FR)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2589.ts
+#EXTINF:-1,Euronews Germany (DE)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2588.ts
+#EXTINF:-1,Euronews Italia (IT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2587.ts
+#EXTINF:-1,Eurosport 1 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2687.ts
+#EXTINF:-1,Eurosport 2 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2686.ts
+#EXTINF:-1,Eurosport 2 Xtra (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2685.ts
+#EXTINF:-1,Eurosport News (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2591.ts
+#EXTINF:-1,Fight Box (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2684.ts
+#EXTINF:-1,Fight Network (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2683.ts
+#EXTINF:-1,Food Network (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2692.ts
+#EXTINF:-1,Fox 23 News (US)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2586.ts
+#EXTINF:-1,Fox 30 News (US)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2585.ts
+#EXTINF:-1,Fox Comedy (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2645.ts
+#EXTINF:-1,Fox Crime (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2644.ts
+#EXTINF:-1,Fox HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2647.ts
+#EXTINF:-1,Fox Life HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2643.ts
+#EXTINF:-1,Fox Movies (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2642.ts
+#EXTINF:-1,Fuel TV (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2682.ts
+#EXTINF:-1,Hollywood TV HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2640.ts
+#EXTINF:-1,JimJam (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2623.ts
+#EXTINF:-1,Kombat Sports (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2681.ts
+#EXTINF:-1,MCM Pop (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2619.ts
+#EXTINF:-1,MCM Top (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2618.ts
+#EXTINF:-1,MCS Extreme (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2617.ts
+#EXTINF:-1,MCS Lifestyle (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2616.ts
+#EXTINF:-1,Motorvision HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2679.ts
+#EXTINF:-1,MTV Base (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2615.ts
+#EXTINF:-1,MTV Classic (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2614.ts
+#EXTINF:-1,MTV Dance (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2613.ts
+#EXTINF:-1,MTV Portugal (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2612.ts
+#EXTINF:-1,NatGeo Wild HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2600.ts
+#EXTINF:-1,National Geographic (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2604.ts
+#EXTINF:-1,National Geographic HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2603.ts
+#EXTINF:-1,National Geographic Wild (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2602.ts
+#EXTINF:-1,National Geographic Wild HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2601.ts
+#EXTINF:-1,Nick (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2622.ts
+#EXTINF:-1,Odisseia TV (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2599.ts
+#EXTINF:-1,Panda Biggs (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2621.ts
+#EXTINF:-1,Panda HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2620.ts
+#EXTINF:-1,Poker Central (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2677.ts
+#EXTINF:-1,RAI News (IT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2583.ts
+#EXTINF:-1,RTP 1 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2710.ts
+#EXTINF:-1,RTP 1 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2709.ts
+#EXTINF:-1,RTP 2 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2708.ts
+#EXTINF:-1,RTP 2 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2707.ts
+#EXTINF:-1,RTP 3 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2706.ts
+#EXTINF:-1,RTP 3 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2705.ts
+#EXTINF:-1,RTP Africa (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2704.ts
+#EXTINF:-1,RTP Internacional (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2703.ts
+#EXTINF:-1,SIC HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2702.ts
+#EXTINF:-1,SIC Noticias (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2581.ts
+#EXTINF:-1,SIC Noticias HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2580.ts
+#EXTINF:-1,Sky Bundesliga 1 HD (DE)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2662.ts
+#EXTINF:-1,SKY Sport 1 HD (DE)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2661.ts
+#EXTINF:-1,Sky Sport 2 HD (DE)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2660.ts
+#EXTINF:-1,SKY TG 24 (IT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2582.ts
+#EXTINF:-1,Sport TV   (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2673.ts
+#EXTINF:-1,Sport TV   HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2672.ts
+#EXTINF:-1,Sport TV (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2671.ts
+#EXTINF:-1,Sport TV 1 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2670.ts
+#EXTINF:-1,Sport TV 1 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2669.ts
+#EXTINF:-1,Sport TV 2 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2668.ts
+#EXTINF:-1,Sport TV 2 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2667.ts
+#EXTINF:-1,Sport TV 3 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2666.ts
+#EXTINF:-1,Sport TV 3 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2665.ts
+#EXTINF:-1,Sport TV 4 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2663.ts
+#EXTINF:-1,Sport TV 5 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2674.ts
+#EXTINF:-1,Sport TV HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2676.ts
+#EXTINF:-1,Sundance Channel (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2639.ts
+#EXTINF:-1,SyFy (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2638.ts
+#EXTINF:-1,The History (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2597.ts
+#EXTINF:-1,The History HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2596.ts
+#EXTINF:-1,TLC (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2637.ts
+#EXTINF:-1,Trace Urban TV (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2611.ts
+#EXTINF:-1,Travel Channel (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2598.ts
+#EXTINF:-1,TV Record Portugal (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2658.ts
+#EXTINF:-1,TV Record Portugal HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2657.ts
+#EXTINF:-1,TV Series (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2636.ts
+#EXTINF:-1,TV Series HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2635.ts
+#EXTINF:-1,TVC 1 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2634.ts
+#EXTINF:-1,TVC 1 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2633.ts
+#EXTINF:-1,TVC 2 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2632.ts
+#EXTINF:-1,TVC 2 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2631.ts
+#EXTINF:-1,TVC 3 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2630.ts
+#EXTINF:-1,TVC 3 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2629.ts
+#EXTINF:-1,TVC 4 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2628.ts
+#EXTINF:-1,TVC 4 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2627.ts
+#EXTINF:-1,TVI 24 (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2700.ts
+#EXTINF:-1,TVI 24 HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2699.ts
+#EXTINF:-1,TVI Ficção (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2698.ts
+#EXTINF:-1,TVI Ficçao HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2697.ts
+#EXTINF:-1,TVI HD (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2701.ts
+#EXTINF:-1,VH1 Classic (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2610.ts
+#EXTINF:-1,VH1 Portugal (PT)
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2609.ts
